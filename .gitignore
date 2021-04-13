@@ -1,0 +1,7 @@
+.idea
+**/out
+**/pretrained_models*
+**/notebooks
+./unsupervised_parsing/data/*.dataset
+**/*.lock
+**/*.sentiment_mask

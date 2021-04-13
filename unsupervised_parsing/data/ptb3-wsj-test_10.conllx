@@ -1,0 +1,3596 @@
+1	No	_	ADV	RB	_	7	discourse	_	_
+2	,	_	PUNCT	,	_	7	punct	_	_
+3	it	_	PRON	PRP	_	7	nsubj	_	_
+4	was	_	VERB	VBD	_	7	cop	_	_
+5	n't	_	PART	RB	_	7	neg	_	_
+6	Black	_	PROPN	NNP	_	7	nn	_	_
+7	Monday	_	PROPN	NNP	_	0	root	_	_
+8	.	_	PUNCT	.	_	7	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	finger-pointing	_	NOUN	NN	_	5	nsubj	_	_
+3	has	_	AUX	VBZ	_	5	aux	_	_
+4	already	_	ADV	RB	_	5	advmod	_	_
+5	begun	_	VERB	VBN	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+
+1	``	_	PUNCT	``	_	6	punct	_	_
+2	The	_	DET	DT	_	4	det	_	_
+3	equity	_	NOUN	NN	_	4	nn	_	_
+4	market	_	NOUN	NN	_	6	nsubj	_	_
+5	was	_	VERB	VBD	_	6	cop	_	_
+6	illiquid	_	ADJ	JJ	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+
+1	The	_	DET	DT	_	4	det	_	_
+2	Dow	_	PROPN	NNP	_	4	nn	_	_
+3	Jones	_	PROPN	NNP	_	4	nn	_	_
+4	industrials	_	NOUN	NNS	_	5	nsubj	_	_
+5	closed	_	VERB	VBD	_	0	root	_	_
+6	at	_	ADP	IN	_	5	prep	_	_
+7	2569.26	_	NUM	CD	_	6	pobj	_	_
+8	.	_	PUNCT	.	_	5	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	Dow	_	PROPN	NNP	_	3	nsubj	_	_
+3	fell	_	VERB	VBD	_	0	root	_	_
+4	22.6	_	NUM	CD	_	5	num	_	_
+5	%	_	SYM	NN	_	3	dobj	_	_
+6	on	_	ADP	IN	_	3	prep	_	_
+7	Black	_	PROPN	NNP	_	8	nn	_	_
+8	Monday	_	PROPN	NNP	_	6	pobj	_	_
+9	.	_	PUNCT	.	_	3	punct	_	_
+
+1	At	_	ADP	IN	_	7	prep	_	_
+2	this	_	DET	DT	_	3	det	_	_
+3	point	_	NOUN	NN	_	1	pobj	_	_
+4	,	_	PUNCT	,	_	7	punct	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	Dow	_	PROPN	NNP	_	7	nsubj	_	_
+7	was	_	VERB	VBD	_	0	root	_	_
+8	down	_	ADV	RB	_	7	advmod	_	_
+9	about	_	ADV	RB	_	10	quantmod	_	_
+10	35	_	NUM	CD	_	11	num	_	_
+11	points	_	NOUN	NNS	_	8	pobj	_	_
+12	.	_	PUNCT	.	_	7	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	market	_	NOUN	NN	_	3	nsubj	_	_
+3	crumbled	_	VERB	VBD	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+
+1	These	_	DET	DT	_	2	det	_	_
+2	stocks	_	NOUN	NNS	_	4	nsubj	_	_
+3	eventually	_	ADV	RB	_	4	advmod	_	_
+4	reopened	_	VERB	VBD	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+
+1	``	_	PUNCT	``	_	8	punct	_	_
+2	It	_	PRON	PRP	_	3	nsubj	_	_
+3	screwed	_	VERB	VBD	_	8	ccomp	_	_
+4	things	_	NOUN	NNS	_	3	dobj	_	_
+5	up	_	ADP	RP	_	3	prt	_	_
+6	,	_	PUNCT	,	_	8	punct	_	_
+7	''	_	PUNCT	''	_	8	punct	_	_
+8	said	_	VERB	VBD	_	0	root	_	_
+9	one	_	NUM	CD	_	11	num	_	_
+10	major	_	ADJ	JJ	_	11	amod	_	_
+11	specialist	_	NOUN	NN	_	8	nsubj	_	_
+12	.	_	PUNCT	.	_	8	punct	_	_
+
+1	But	_	CONJ	CC	_	3	cc	_	_
+2	stocks	_	NOUN	NNS	_	3	nsubj	_	_
+3	kept	_	VERB	VBD	_	0	root	_	_
+4	falling	_	VERB	VBG	_	3	xcomp	_	_
+5	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Buyers	_	NOUN	NNS	_	2	nsubj	_	_
+2	stepped	_	VERB	VBD	_	0	root	_	_
+3	in	_	ADP	IN	_	2	advmod	_	_
+4	to	_	ADP	TO	_	3	prep	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	futures	_	NOUN	NNS	_	7	nn	_	_
+7	pit	_	NOUN	NN	_	4	pobj	_	_
+8	.	_	PUNCT	.	_	2	punct	_	_
+
+1	But	_	CONJ	CC	_	3	cc	_	_
+2	there	_	PRON	EX	_	3	expl	_	_
+3	were	_	VERB	VBD	_	0	root	_	_
+4	no	_	DET	DT	_	5	neg	_	_
+5	buyers	_	NOUN	NNS	_	3	nsubj	_	_
+6	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Just	_	ADV	RB	_	2	advmod	_	_
+2	thought	_	VERB	VBD	_	0	root	_	_
+3	you	_	PRON	PRP	_	5	nsubj	_	_
+4	'd	_	AUX	MD	_	5	aux	_	_
+5	like	_	VERB	VB	_	2	ccomp	_	_
+6	to	_	PART	TO	_	7	aux	_	_
+7	know	_	VERB	VB	_	5	xcomp	_	_
+8	.	_	PUNCT	.	_	2	punct	_	_
+
+1	George	_	PROPN	NNP	_	2	nn	_	_
+2	Morton	_	PROPN	NNP	_	0	root	_	_
+
+1	Hooker	_	PROPN	NNP	_	3	poss	_	_
+2	's	_	PART	POS	_	1	possessive	_	_
+3	philosophy	_	NOUN	NN	_	4	nsubj	_	_
+4	was	_	VERB	VBD	_	0	root	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	build	_	VERB	VB	_	4	xcomp	_	_
+7	and	_	CONJ	CC	_	6	cc	_	_
+8	sell	_	VERB	VB	_	6	conj	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+
+1	We	_	PRON	PRP	_	2	nsubj	_	_
+2	want	_	VERB	VBP	_	0	root	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	build	_	VERB	VB	_	2	xcomp	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	hold	_	VERB	VB	_	4	conj	_	_
+7	.	_	PUNCT	.	_	2	punct	_	_
+8	''	_	PUNCT	''	_	2	punct	_	_
+
+1	Hoare	_	PROPN	NNP	_	2	nn	_	_
+2	Govett	_	PROPN	NNP	_	4	nsubj	_	_
+3	is	_	AUX	VBZ	_	4	aux	_	_
+4	acting	_	VERB	VBG	_	0	root	_	_
+5	as	_	ADP	IN	_	4	prep	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	consortium	_	NOUN	NN	_	10	poss	_	_
+8	's	_	PART	POS	_	7	possessive	_	_
+9	investment	_	NOUN	NN	_	10	nn	_	_
+10	bankers	_	NOUN	NNS	_	5	pobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	They	_	PRON	PRP	_	4	nsubj	_	_
+2	will	_	AUX	MD	_	4	aux	_	_
+3	be	_	VERB	VB	_	4	cop	_	_
+4	available	_	ADJ	JJ	_	0	root	_	_
+5	in	_	ADP	IN	_	4	prep	_	_
+6	minimum	_	ADJ	JJ	_	7	amod	_	_
+7	denominations	_	NOUN	NNS	_	5	pobj	_	_
+8	of	_	ADP	IN	_	7	prep	_	_
+9	$	_	SYM	$	_	8	pobj	_	_
+10	10,000	_	NUM	CD	_	9	num	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	``	_	PUNCT	``	_	3	punct	_	_
+2	This	_	PRON	DT	_	3	nsubj	_	_
+3	feels	_	VERB	VBZ	_	0	root	_	_
+4	more	_	ADV	RBR	_	5	advmod	_	_
+5	like	_	ADP	IN	_	3	prep	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	one-shot	_	ADJ	JJ	_	8	amod	_	_
+8	deal	_	NOUN	NN	_	5	pobj	_	_
+9	.	_	PUNCT	.	_	3	punct	_	_
+
+1	People	_	NOUN	NNS	_	4	nsubj	_	_
+2	are	_	AUX	VBP	_	4	aux	_	_
+3	n't	_	PART	RB	_	4	neg	_	_
+4	panicking	_	VERB	VBG	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+6	''	_	PUNCT	''	_	4	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	test	_	NOUN	NN	_	4	nsubj	_	_
+3	may	_	AUX	MD	_	4	aux	_	_
+4	come	_	VERB	VB	_	0	root	_	_
+5	today	_	NOUN	NN	_	4	tmod	_	_
+6	.	_	PUNCT	.	_	4	punct	_	_
+
+1	But	_	CONJ	CC	_	4	cc	_	_
+2	fund	_	NOUN	NN	_	3	nn	_	_
+3	managers	_	NOUN	NNS	_	4	nsubj	_	_
+4	say	_	VERB	VBP	_	0	root	_	_
+5	they	_	PRON	PRP	_	7	nsubj	_	_
+6	're	_	VERB	VBP	_	7	cop	_	_
+7	ready	_	ADJ	JJ	_	4	ccomp	_	_
+8	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Not	_	ADV	RB	_	2	neg	_	_
+2	all	_	DET	DT	_	3	amod	_	_
+3	funds	_	NOUN	NNS	_	5	nsubj	_	_
+4	have	_	AUX	VBP	_	5	aux	_	_
+5	raised	_	VERB	VBN	_	0	root	_	_
+6	cash	_	NOUN	NN	_	7	nn	_	_
+7	levels	_	NOUN	NNS	_	5	dobj	_	_
+8	,	_	PUNCT	,	_	5	punct	_	_
+9	of	_	ADP	IN	_	5	prep	_	_
+10	course	_	NOUN	NN	_	9	pobj	_	_
+11	.	_	PUNCT	.	_	5	punct	_	_
+
+1	But	_	CONJ	CC	_	5	cc	_	_
+2	most	_	ADJ	JJS	_	3	amod	_	_
+3	investors	_	NOUN	NNS	_	5	nsubj	_	_
+4	were	_	AUX	VBD	_	5	aux	_	_
+5	seeking	_	VERB	VBG	_	0	root	_	_
+6	share	_	NOUN	NN	_	7	nn	_	_
+7	prices	_	NOUN	NNS	_	5	dobj	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	other	_	ADJ	JJ	_	10	amod	_	_
+10	information	_	NOUN	NN	_	7	conj	_	_
+11	.	_	PUNCT	.	_	5	punct	_	_
+
+1	Trading	_	NOUN	NN	_	2	nn	_	_
+2	volume	_	NOUN	NN	_	6	nsubj	_	_
+3	was	_	VERB	VBD	_	6	cop	_	_
+4	only	_	ADV	RB	_	5	advmod	_	_
+5	modestly	_	ADV	RB	_	6	advmod	_	_
+6	higher	_	ADJ	JJR	_	0	root	_	_
+7	than	_	ADP	IN	_	6	prep	_	_
+8	normal	_	ADJ	JJ	_	7	pobj	_	_
+9	.	_	PUNCT	.	_	6	punct	_	_
+
+1	Still	_	ADV	RB	_	7	advmod	_	_
+2	,	_	PUNCT	,	_	7	punct	_	_
+3	fund	_	NOUN	NN	_	4	nn	_	_
+4	groups	_	NOUN	NNS	_	7	nsubj	_	_
+5	are	_	AUX	VBP	_	7	aux	_	_
+6	n't	_	PART	RB	_	7	neg	_	_
+7	taking	_	VERB	VBG	_	0	root	_	_
+8	any	_	DET	DT	_	9	det	_	_
+9	chances	_	NOUN	NNS	_	7	dobj	_	_
+10	.	_	PUNCT	.	_	7	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	centers	_	NOUN	NNS	_	5	nsubj	_	_
+3	normally	_	ADV	RB	_	5	advmod	_	_
+4	are	_	VERB	VBP	_	5	cop	_	_
+5	closed	_	ADJ	JJ	_	0	root	_	_
+6	through	_	ADP	IN	_	5	prep	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	weekend	_	NOUN	NN	_	6	pobj	_	_
+9	.	_	PUNCT	.	_	5	punct	_	_
+
+1	The	_	DET	DT	_	3	det	_	_
+2	Janus	_	PROPN	NNP	_	3	nn	_	_
+3	Group	_	PROPN	NNP	_	4	nsubj	_	_
+4	had	_	VERB	VBD	_	0	root	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	similar	_	ADJ	JJ	_	7	amod	_	_
+7	recording	_	NOUN	NN	_	4	dobj	_	_
+8	for	_	ADP	IN	_	4	prep	_	_
+9	investors	_	NOUN	NNS	_	8	pobj	_	_
+10	.	_	PUNCT	.	_	4	punct	_	_
+
+1	``	_	PUNCT	``	_	11	punct	_	_
+2	This	_	PRON	DT	_	7	nsubj	_	_
+3	is	_	VERB	VBZ	_	7	cop	_	_
+4	not	_	PART	RB	_	7	neg	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	major	_	ADJ	JJ	_	7	amod	_	_
+7	crash	_	NOUN	NN	_	11	ccomp	_	_
+8	,	_	PUNCT	,	_	11	punct	_	_
+9	''	_	PUNCT	''	_	11	punct	_	_
+10	she	_	PRON	PRP	_	11	nsubj	_	_
+11	said	_	VERB	VBD	_	0	root	_	_
+12	.	_	PUNCT	.	_	11	punct	_	_
+
+1	Now	_	ADV	RB	_	7	advmod	_	_
+2	,	_	PUNCT	,	_	7	punct	_	_
+3	those	_	DET	DT	_	4	det	_	_
+4	routes	_	NOUN	NNS	_	7	nsubjpass	_	_
+5	are	_	AUX	VBP	_	7	auxpass	_	_
+6	n't	_	PART	RB	_	7	neg	_	_
+7	expected	_	VERB	VBN	_	0	root	_	_
+8	to	_	PART	TO	_	9	aux	_	_
+9	begin	_	VERB	VB	_	7	xcomp	_	_
+10	until	_	ADP	IN	_	7	prep	_	_
+11	Jan	_	PROPN	NNP	_	10	pobj	_	_
+12	.	_	PUNCT	.	_	7	punct	_	_
+
+1	Those	_	PRON	DT	_	7	nsubj	_	_
+2	,	_	PUNCT	,	_	7	punct	_	_
+3	too	_	ADV	RB	_	7	advmod	_	_
+4	,	_	PUNCT	,	_	7	punct	_	_
+5	are	_	VERB	VBP	_	7	cop	_	_
+6	almost	_	ADV	RB	_	7	advmod	_	_
+7	certain	_	ADJ	JJ	_	0	root	_	_
+8	to	_	PART	TO	_	9	aux	_	_
+9	arrive	_	VERB	VB	_	7	xcomp	_	_
+10	late	_	ADV	RB	_	9	advmod	_	_
+11	.	_	PUNCT	.	_	7	punct	_	_
+
+1	``	_	PUNCT	``	_	5	punct	_	_
+2	I	_	PRON	PRP	_	5	nsubj	_	_
+3	would	_	AUX	MD	_	5	aux	_	_
+4	n't	_	PART	RB	_	5	neg	_	_
+5	expect	_	VERB	VB	_	0	root	_	_
+6	an	_	DET	DT	_	8	det	_	_
+7	immediate	_	ADJ	JJ	_	8	amod	_	_
+8	resolution	_	NOUN	NN	_	5	dobj	_	_
+9	to	_	ADP	TO	_	8	prep	_	_
+10	anything	_	PRON	NN	_	9	pobj	_	_
+11	.	_	PUNCT	.	_	5	punct	_	_
+12	''	_	PUNCT	''	_	5	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	accord	_	NOUN	NN	_	3	nsubj	_	_
+3	expired	_	VERB	VBD	_	0	root	_	_
+4	yesterday	_	NOUN	NN	_	3	tmod	_	_
+5	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Pratt	_	PROPN	NNP	_	6	nsubj	_	_
+2	&	_	CONJ	CC	_	1	cc	_	_
+3	Whitney	_	PROPN	NNP	_	1	conj	_	_
+4	is	_	VERB	VBZ	_	6	cop	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	unit	_	NOUN	NN	_	0	root	_	_
+7	of	_	ADP	IN	_	6	prep	_	_
+8	United	_	PROPN	NNP	_	10	nn	_	_
+9	Technologies	_	PROPN	NNP	_	10	nn	_	_
+10	Inc	_	PROPN	NNP	_	7	pobj	_	_
+11	.	_	PUNCT	.	_	6	punct	_	_
+
+1	Martinair	_	PROPN	NNP	_	2	nn	_	_
+2	Holland	_	PROPN	NNP	_	4	nsubjpass	_	_
+3	is	_	AUX	VBZ	_	4	auxpass	_	_
+4	based	_	VERB	VBN	_	0	root	_	_
+5	in	_	ADP	IN	_	4	prep	_	_
+6	Amsterdam	_	PROPN	NNP	_	5	pobj	_	_
+7	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Bridget	_	PROPN	NNP	_	2	nn	_	_
+2	O'Brian	_	PROPN	NNP	_	3	nsubj	_	_
+3	contributed	_	VERB	VBD	_	0	root	_	_
+4	to	_	ADP	TO	_	3	prep	_	_
+5	this	_	DET	DT	_	6	det	_	_
+6	article	_	NOUN	NN	_	4	pobj	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+
+1	``	_	PUNCT	``	_	5	punct	_	_
+2	The	_	DET	DT	_	3	det	_	_
+3	projects	_	NOUN	NNS	_	5	nsubj	_	_
+4	are	_	VERB	VBP	_	5	cop	_	_
+5	big	_	ADJ	JJ	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+
+1	They	_	PRON	PRP	_	7	nsubj	_	_
+2	can	_	AUX	MD	_	7	aux	_	_
+3	be	_	VERB	VB	_	7	cop	_	_
+4	C$	_	SYM	$	_	7	num	_	_
+5	1	_	NUM	CD	_	6	number	_	_
+6	billion	_	NUM	CD	_	4	num	_	_
+7	plus	_	ADV	RB	_	12	ccomp	_	_
+8	,	_	PUNCT	,	_	12	punct	_	_
+9	''	_	PUNCT	''	_	12	punct	_	_
+10	Mr.	_	PROPN	NNP	_	11	nn	_	_
+11	Richardson	_	PROPN	NNP	_	12	nsubj	_	_
+12	said	_	VERB	VBD	_	0	root	_	_
+13	.	_	PUNCT	.	_	12	punct	_	_
+
+1	``	_	PUNCT	``	_	4	punct	_	_
+2	We	_	PRON	PRP	_	4	nsubj	_	_
+3	usually	_	ADV	RB	_	4	advmod	_	_
+4	operate	_	VERB	VBP	_	0	root	_	_
+5	in	_	ADP	IN	_	4	prep	_	_
+6	that	_	DET	DT	_	8	det	_	_
+7	conservative	_	ADJ	JJ	_	8	amod	_	_
+8	manner	_	NOUN	NN	_	5	pobj	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+10	''	_	PUNCT	''	_	4	punct	_	_
+
+1	``	_	PUNCT	``	_	4	punct	_	_
+2	Now	_	ADV	RB	_	4	advmod	_	_
+3	we	_	PRON	PRP	_	4	nsubj	_	_
+4	're	_	VERB	VBP	_	0	root	_	_
+5	at	_	ADP	IN	_	4	prep	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	bottom	_	NOUN	NN	_	5	pobj	_	_
+8	of	_	ADP	IN	_	7	prep	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	heap	_	NOUN	NN	_	8	pobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+12	''	_	PUNCT	''	_	4	punct	_	_
+
+1	``	_	PUNCT	``	_	10	punct	_	_
+2	People	_	NOUN	NNS	_	5	nsubj	_	_
+3	were	_	AUX	VBD	_	5	aux	_	_
+4	even	_	ADV	RB	_	5	advmod	_	_
+5	hoarding	_	VERB	VBG	_	10	ccomp	_	_
+6	bags	_	NOUN	NNS	_	5	dobj	_	_
+7	,	_	PUNCT	,	_	10	punct	_	_
+8	''	_	PUNCT	''	_	10	punct	_	_
+9	he	_	PRON	PRP	_	10	nsubj	_	_
+10	says	_	VERB	VBZ	_	0	root	_	_
+11	.	_	PUNCT	.	_	10	punct	_	_
+
+1	Now	_	ADV	RB	_	3	advmod	_	_
+2	producers	_	NOUN	NNS	_	3	nsubj	_	_
+3	hope	_	VERB	VBP	_	0	root	_	_
+4	prices	_	NOUN	NNS	_	6	nsubj	_	_
+5	have	_	AUX	VBP	_	6	aux	_	_
+6	hit	_	VERB	VBN	_	3	ccomp	_	_
+7	bottom	_	NOUN	NN	_	6	dobj	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Some	_	DET	DT	_	2	nsubj	_	_
+2	say	_	VERB	VBP	_	0	root	_	_
+3	November	_	PROPN	NNP	_	2	tmod	_	_
+4	.	_	PUNCT	.	_	2	punct	_	_
+
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	say	_	VERB	VBP	_	0	root	_	_
+3	1992	_	NUM	CD	_	2	dobj	_	_
+4	.	_	PUNCT	.	_	2	punct	_	_
+5	''	_	PUNCT	''	_	2	punct	_	_
+
+1	Then	_	ADV	RB	_	5	advmod	_	_
+2	a	_	DET	DT	_	4	det	_	_
+3	second	_	ADJ	JJ	_	4	amod	_	_
+4	explosion	_	NOUN	NN	_	5	nsubj	_	_
+5	occurred	_	VERB	VBD	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+
+1	Two	_	NUM	CD	_	2	num	_	_
+2	workers	_	NOUN	NNS	_	3	nsubj	_	_
+3	died	_	VERB	VBD	_	0	root	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	six	_	NUM	CD	_	6	nsubj	_	_
+6	remain	_	VERB	VBP	_	3	conj	_	_
+7	in	_	ADP	IN	_	6	prep	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	hospital	_	NOUN	NN	_	7	pobj	_	_
+10	.	_	PUNCT	.	_	3	punct	_	_
+
+1	``	_	PUNCT	``	_	6	punct	_	_
+2	And	_	CONJ	CC	_	6	cc	_	_
+3	then	_	ADV	RB	_	6	advmod	_	_
+4	you	_	PRON	PRP	_	6	nsubj	_	_
+5	still	_	ADV	RB	_	6	advmod	_	_
+6	have	_	VERB	VB	_	0	root	_	_
+7	to	_	PART	TO	_	8	aux	_	_
+8	negotiate	_	VERB	VB	_	6	xcomp	_	_
+9	.	_	PUNCT	.	_	6	punct	_	_
+10	''	_	PUNCT	''	_	6	punct	_	_
+
+1	Not	_	ADV	RB	_	2	neg	_	_
+2	everything	_	PRON	NN	_	3	nsubj	_	_
+3	looks	_	VERB	VBZ	_	0	root	_	_
+4	grim	_	ADJ	JJ	_	3	acomp	_	_
+5	for	_	ADP	IN	_	3	prep	_	_
+6	Quantum	_	PROPN	NNP	_	5	pobj	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Petrolane	_	PROPN	NNP	_	6	nsubj	_	_
+2	is	_	VERB	VBZ	_	6	cop	_	_
+3	the	_	DET	DT	_	6	det	_	_
+4	second-largest	_	ADJ	JJ	_	6	amod	_	_
+5	propane	_	NOUN	NN	_	6	nn	_	_
+6	distributor	_	NOUN	NN	_	0	root	_	_
+7	in	_	ADP	IN	_	6	prep	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	U.S.	_	PROPN	NNP	_	7	pobj	_	_
+10	.	_	PUNCT	.	_	6	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	largest	_	ADJ	JJS	_	9	nsubjpass	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	Suburban	_	PROPN	NNP	_	5	nn	_	_
+5	Propane	_	PROPN	NNP	_	2	appos	_	_
+6	,	_	PUNCT	,	_	2	punct	_	_
+7	was	_	AUX	VBD	_	9	auxpass	_	_
+8	already	_	ADV	RB	_	9	advmod	_	_
+9	owned	_	VERB	VBN	_	0	root	_	_
+10	by	_	ADP	IN	_	9	prep	_	_
+11	Quantum	_	PROPN	NNP	_	10	pobj	_	_
+12	.	_	PUNCT	.	_	9	punct	_	_
+
+1	Still	_	ADV	RB	_	4	advmod	_	_
+2	,	_	PUNCT	,	_	4	punct	_	_
+3	Quantum	_	PROPN	NNP	_	4	nsubj	_	_
+4	has	_	VERB	VBZ	_	0	root	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	crisis	_	NOUN	NN	_	4	dobj	_	_
+7	to	_	PART	TO	_	8	aux	_	_
+8	get	_	VERB	VB	_	6	vmod	_	_
+9	past	_	ADP	IN	_	8	prep	_	_
+10	right	_	ADV	RB	_	11	advmod	_	_
+11	now	_	ADV	RB	_	4	advmod	_	_
+12	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Revenue	_	NOUN	NN	_	2	nsubj	_	_
+2	totaled	_	VERB	VBD	_	0	root	_	_
+3	$	_	SYM	$	_	2	dobj	_	_
+4	5	_	NUM	CD	_	5	number	_	_
+5	million	_	NUM	CD	_	3	num	_	_
+6	.	_	PUNCT	.	_	2	punct	_	_
+
+1	Superconcentrates	_	NOUN	NNS	_	5	nsubj	_	_
+2	are	_	VERB	VBP	_	5	cop	_	_
+3	n't	_	PART	RB	_	5	neg	_	_
+4	entirely	_	ADV	RB	_	5	advmod	_	_
+5	new	_	ADJ	JJ	_	0	root	_	_
+6	for	_	ADP	IN	_	5	prep	_	_
+7	P&G	_	PROPN	NNP	_	6	pobj	_	_
+8	.	_	PUNCT	.	_	5	punct	_	_
+
+1	It	_	PRON	PRP	_	3	nsubj	_	_
+2	also	_	ADV	RB	_	3	advmod	_	_
+3	has	_	VERB	VBZ	_	0	root	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	product-testing	_	NOUN	NN	_	6	nn	_	_
+6	facility	_	NOUN	NN	_	3	dobj	_	_
+7	in	_	ADP	IN	_	3	prep	_	_
+8	California	_	PROPN	NNP	_	7	pobj	_	_
+9	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Many	_	ADJ	JJ	_	2	nsubj	_	_
+2	called	_	VERB	VBD	_	0	root	_	_
+3	it	_	PRON	PRP	_	6	nsubj	_	_
+4	simply	_	ADV	RB	_	6	advmod	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	contrast	_	NOUN	NN	_	2	xcomp	_	_
+7	in	_	ADP	IN	_	6	prep	_	_
+8	styles	_	NOUN	NNS	_	7	pobj	_	_
+9	.	_	PUNCT	.	_	2	punct	_	_
+
+1	But	_	CONJ	CC	_	3	cc	_	_
+2	some	_	DET	DT	_	3	nsubj	_	_
+3	saw	_	VERB	VBD	_	0	root	_	_
+4	it	_	PRON	PRP	_	3	dobj	_	_
+5	as	_	ADP	IN	_	3	prep	_	_
+6	a	_	DET	DT	_	9	det	_	_
+7	classic	_	ADJ	JJ	_	9	amod	_	_
+8	negotiating	_	NOUN	NN	_	9	nn	_	_
+9	tactic	_	NOUN	NN	_	5	pobj	_	_
+10	.	_	PUNCT	.	_	3	punct	_	_
+
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	do	_	AUX	VBP	_	4	aux	_	_
+3	n't	_	PART	RB	_	4	neg	_	_
+4	feel	_	VERB	VB	_	0	root	_	_
+5	very	_	ADV	RB	_	6	advmod	_	_
+6	ferocious	_	ADJ	JJ	_	4	acomp	_	_
+7	.	_	PUNCT	.	_	4	punct	_	_
+
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	do	_	AUX	VBP	_	4	aux	_	_
+3	n't	_	PART	RB	_	4	neg	_	_
+4	feel	_	VERB	VB	_	0	root	_	_
+5	either	_	CONJ	CC	_	6	preconj	_	_
+6	hard	_	ADJ	JJ	_	4	acomp	_	_
+7	or	_	CONJ	CC	_	6	cc	_	_
+8	soft	_	ADJ	JJ	_	6	conj	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+
+1	But	_	CONJ	CC	_	3	cc	_	_
+2	she	_	PRON	PRP	_	3	nsubj	_	_
+3	stressed	_	VERB	VBD	_	0	root	_	_
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	``	_	PUNCT	``	_	7	punct	_	_
+6	I	_	PRON	PRP	_	7	nsubj	_	_
+7	am	_	VERB	VBP	_	3	ccomp	_	_
+8	against	_	ADP	IN	_	7	prep	_	_
+9	managed	_	ADJ	JJ	_	10	amod	_	_
+10	trade	_	NOUN	NN	_	8	pobj	_	_
+11	.	_	PUNCT	.	_	3	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	company	_	NOUN	NN	_	5	nsubj	_	_
+3	did	_	AUX	VBD	_	5	aux	_	_
+4	n't	_	PART	RB	_	5	neg	_	_
+5	break	_	VERB	VB	_	0	root	_	_
+6	out	_	ADP	RP	_	5	prt	_	_
+7	its	_	PRON	PRP$	_	9	poss	_	_
+8	fourth-quarter	_	ADJ	JJ	_	9	amod	_	_
+9	results	_	NOUN	NNS	_	5	dobj	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+
+1	Closely	_	ADV	RB	_	2	advmod	_	_
+2	held	_	VERB	VBN	_	4	amod	_	_
+3	Morris	_	PROPN	NNP	_	4	nn	_	_
+4	Communications	_	PROPN	NNP	_	6	nsubjpass	_	_
+5	is	_	AUX	VBZ	_	6	auxpass	_	_
+6	based	_	VERB	VBN	_	0	root	_	_
+7	in	_	ADP	IN	_	6	prep	_	_
+8	Augusta	_	PROPN	NNP	_	7	pobj	_	_
+9	,	_	PUNCT	,	_	8	punct	_	_
+10	Ga	_	PROPN	NNP	_	8	appos	_	_
+11	.	_	PUNCT	.	_	6	punct	_	_
+
+1	Terms	_	NOUN	NNS	_	4	nsubjpass	_	_
+2	were	_	AUX	VBD	_	4	auxpass	_	_
+3	n't	_	PART	RB	_	4	neg	_	_
+4	disclosed	_	VERB	VBN	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Syms	_	NOUN	NNS	_	2	nsubj	_	_
+2	operates	_	VERB	VBZ	_	0	root	_	_
+3	25	_	NUM	CD	_	6	num	_	_
+4	off-price	_	ADJ	JJ	_	6	amod	_	_
+5	apparel	_	NOUN	NN	_	6	nn	_	_
+6	stores	_	NOUN	NNS	_	2	dobj	_	_
+7	in	_	ADP	IN	_	2	prep	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	U.S.	_	PROPN	NNP	_	7	pobj	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+
+1	He	_	PRON	PRP	_	4	nsubj	_	_
+2	did	_	AUX	VBD	_	4	aux	_	_
+3	n't	_	PART	RB	_	4	neg	_	_
+4	forecast	_	VERB	VBN	_	0	root	_	_
+5	Phillips	_	PROPN	NNP	_	7	poss	_	_
+6	's	_	PART	POS	_	5	possessive	_	_
+7	results	_	NOUN	NNS	_	4	dobj	_	_
+8	.	_	PUNCT	.	_	4	punct	_	_
+
+1	A	_	DET	DT	_	3	det	_	_
+2	big	_	ADJ	JJ	_	3	amod	_	_
+3	reason	_	NOUN	NN	_	10	nsubj	_	_
+4	for	_	ADP	IN	_	3	prep	_	_
+5	the	_	DET	DT	_	8	det	_	_
+6	chemical	_	NOUN	NN	_	8	nn	_	_
+7	price	_	NOUN	NN	_	8	nn	_	_
+8	retreat	_	NOUN	NN	_	4	pobj	_	_
+9	is	_	VERB	VBZ	_	10	cop	_	_
+10	overexpansion	_	NOUN	NN	_	0	root	_	_
+11	.	_	PUNCT	.	_	10	punct	_	_
+
+1	Companies	_	NOUN	NNS	_	2	nsubj	_	_
+2	added	_	VERB	VBD	_	0	root	_	_
+3	capacity	_	NOUN	NN	_	2	dobj	_	_
+4	furiously	_	ADV	RB	_	2	advmod	_	_
+5	.	_	PUNCT	.	_	2	punct	_	_
+
+1	Third-quarter	_	ADJ	JJ	_	2	amod	_	_
+2	profits	_	NOUN	NNS	_	6	nsubj	_	_
+3	from	_	ADP	IN	_	2	prep	_	_
+4	gasoline	_	NOUN	NN	_	3	pobj	_	_
+5	were	_	VERB	VBD	_	6	cop	_	_
+6	weaker	_	ADJ	JJR	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+
+1	The	_	DET	DT	_	3	det	_	_
+2	excess	_	ADJ	JJ	_	3	amod	_	_
+3	supply	_	NOUN	NN	_	4	nsubj	_	_
+4	pushed	_	VERB	VBD	_	0	root	_	_
+5	gasoline	_	NOUN	NN	_	6	nn	_	_
+6	prices	_	NOUN	NNS	_	4	dobj	_	_
+7	down	_	ADP	RP	_	4	advmod	_	_
+8	in	_	ADP	IN	_	4	prep	_	_
+9	that	_	DET	DT	_	10	det	_	_
+10	period	_	NOUN	NN	_	8	pobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	The	_	DET	DT	_	3	det	_	_
+2	main	_	ADJ	JJ	_	3	amod	_	_
+3	reason	_	NOUN	NN	_	4	nsubj	_	_
+4	remains	_	VERB	VBZ	_	0	root	_	_
+5	weather	_	NOUN	NN	_	4	xcomp	_	_
+6	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Olivetti	_	PROPN	NNP	_	3	nsubj	_	_
+2	reportedly	_	ADV	RB	_	3	advmod	_	_
+3	began	_	VERB	VBD	_	0	root	_	_
+4	shipping	_	VERB	VBG	_	3	xcomp	_	_
+5	these	_	DET	DT	_	6	det	_	_
+6	tools	_	NOUN	NNS	_	4	dobj	_	_
+7	in	_	ADP	IN	_	3	prep	_	_
+8	1984	_	NUM	CD	_	7	pobj	_	_
+9	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Northview	_	PROPN	NNP	_	2	nn	_	_
+2	officials	_	NOUN	NNS	_	6	nsubjpass	_	_
+3	could	_	AUX	MD	_	6	aux	_	_
+4	n't	_	PART	RB	_	6	neg	_	_
+5	be	_	AUX	VB	_	6	auxpass	_	_
+6	located	_	VERB	VBN	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+
+1	However	_	ADV	RB	_	6	advmod	_	_
+2	,	_	PUNCT	,	_	6	punct	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	agreement	_	NOUN	NN	_	6	nsubjpass	_	_
+5	was	_	AUX	VBD	_	6	auxpass	_	_
+6	canceled	_	VERB	VBN	_	0	root	_	_
+7	in	_	ADP	IN	_	6	prep	_	_
+8	June	_	PROPN	NNP	_	7	pobj	_	_
+9	1984	_	NUM	CD	_	8	num	_	_
+10	.	_	PUNCT	.	_	6	punct	_	_
+
+1	That	_	PRON	DT	_	6	nsubj	_	_
+2	would	_	AUX	MD	_	6	aux	_	_
+3	be	_	VERB	VB	_	6	cop	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	lowest	_	ADJ	JJS	_	6	amod	_	_
+6	level	_	NOUN	NN	_	0	root	_	_
+7	since	_	ADP	IN	_	6	prep	_	_
+8	the	_	DET	DT	_	10	det	_	_
+9	early	_	ADJ	JJ	_	10	amod	_	_
+10	1970s	_	NOUN	NNS	_	7	pobj	_	_
+11	.	_	PUNCT	.	_	6	punct	_	_
+
+1	Looking	_	VERB	VBG	_	0	root	_	_
+2	ahead	_	ADV	RB	_	1	advmod	_	_
+3	to	_	ADP	TO	_	2	prep	_	_
+4	other	_	ADJ	JJ	_	6	amod	_	_
+5	commodity	_	NOUN	NN	_	6	nn	_	_
+6	markets	_	NOUN	NNS	_	3	pobj	_	_
+7	this	_	DET	DT	_	8	det	_	_
+8	week	_	NOUN	NN	_	6	tmod	_	_
+9	:	_	PUNCT	:	_	1	punct	_	_
+
+1	Energy	_	NOUN	NN	_	0	root	_	_
+
+1	Mr.	_	PROPN	NNP	_	2	nn	_	_
+2	Spielvogel	_	PROPN	NNP	_	3	nsubj	_	_
+3	said	_	VERB	VBD	_	0	root	_	_
+4	he	_	PRON	PRP	_	7	nsubj	_	_
+5	would	_	AUX	MD	_	7	aux	_	_
+6	n't	_	PART	RB	_	7	neg	_	_
+7	launch	_	VERB	VB	_	3	ccomp	_	_
+8	a	_	DET	DT	_	10	det	_	_
+9	hostile	_	ADJ	JJ	_	10	amod	_	_
+10	bid	_	NOUN	NN	_	7	dobj	_	_
+11	.	_	PUNCT	.	_	3	punct	_	_
+
+1	He	_	PRON	PRP	_	3	nsubjpass	_	_
+2	was	_	AUX	VBD	_	3	auxpass	_	_
+3	brought	_	VERB	VBN	_	0	root	_	_
+4	in	_	ADP	RP	_	3	prt	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	turn	_	VERB	VB	_	3	xcomp	_	_
+7	around	_	ADP	RP	_	6	prt	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	company	_	NOUN	NN	_	6	dobj	_	_
+10	.	_	PUNCT	.	_	3	punct	_	_
+11	''	_	PUNCT	''	_	3	punct	_	_
+
+1	Ad	_	NOUN	NN	_	2	nn	_	_
+2	Notes	_	NOUN	NNS	_	0	root	_	_
+3	...	_	PUNCT	:	_	2	punct	_	_
+4	.	_	PUNCT	.	_	2	punct	_	_
+
+1	NEW	_	ADJ	JJ	_	2	amod	_	_
+2	ACCOUNT	_	NOUN	NN	_	0	root	_	_
+3	:	_	PUNCT	:	_	2	punct	_	_
+
+1	ACCOUNT	_	PROPN	NNP	_	2	nn	_	_
+2	REVIEW	_	PROPN	NNP	_	0	root	_	_
+3	:	_	PUNCT	:	_	2	punct	_	_
+
+1	NOT-GUILTY	_	ADJ	JJ	_	2	amod	_	_
+2	PLEA	_	NOUN	NN	_	0	root	_	_
+3	:	_	PUNCT	:	_	2	punct	_	_
+
+1	KOREAN	_	ADJ	JJ	_	2	amod	_	_
+2	AGENCY	_	NOUN	NN	_	0	root	_	_
+3	:	_	PUNCT	:	_	2	punct	_	_
+
+1	Revenue	_	NOUN	NN	_	2	nsubj	_	_
+2	soared	_	VERB	VBD	_	0	root	_	_
+3	to	_	ADP	TO	_	2	prep	_	_
+4	$	_	SYM	$	_	3	pobj	_	_
+5	117	_	NUM	CD	_	6	number	_	_
+6	million	_	NUM	CD	_	4	num	_	_
+7	from	_	ADP	IN	_	2	prep	_	_
+8	$	_	SYM	$	_	7	pobj	_	_
+9	81.5	_	NUM	CD	_	10	number	_	_
+10	million	_	NUM	CD	_	8	num	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+
+1	Revenue	_	NOUN	NN	_	2	nsubj	_	_
+2	rose	_	VERB	VBD	_	0	root	_	_
+3	to	_	ADP	TO	_	2	prep	_	_
+4	$	_	SYM	$	_	3	pobj	_	_
+5	225.5	_	NUM	CD	_	6	number	_	_
+6	million	_	NUM	CD	_	4	num	_	_
+7	from	_	ADP	IN	_	2	prep	_	_
+8	$	_	SYM	$	_	7	pobj	_	_
+9	161.8	_	NUM	CD	_	10	number	_	_
+10	million	_	NUM	CD	_	8	num	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+
+1	``	_	PUNCT	``	_	3	punct	_	_
+2	Retailers	_	NOUN	NNS	_	3	nsubj	_	_
+3	are	_	VERB	VBP	_	0	root	_	_
+4	just	_	ADV	RB	_	3	advmod	_	_
+5	in	_	ADP	IN	_	3	prep	_	_
+6	disarray	_	NOUN	NN	_	5	pobj	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+8	''	_	PUNCT	''	_	3	punct	_	_
+
+1	Affiliated	_	PROPN	NNP	_	3	nn	_	_
+2	Publications	_	PROPN	NNP	_	3	nn	_	_
+3	Inc.	_	PROPN	NNP	_	4	nsubj	_	_
+4	reversed	_	VERB	VBD	_	0	root	_	_
+5	a	_	DET	DT	_	10	det	_	_
+6	year-earlier	_	ADJ	JJ	_	10	amod	_	_
+7	third	_	ADJ	JJ	_	10	amod	_	_
+8	quarter	_	NOUN	NN	_	10	nn	_	_
+9	net	_	ADJ	JJ	_	10	amod	_	_
+10	loss	_	NOUN	NN	_	4	dobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Union	_	NOUN	NN	_	2	nn	_	_
+2	officials	_	NOUN	NNS	_	4	nsubj	_	_
+3	have	_	AUX	VB	_	4	aux	_	_
+4	taken	_	VERB	VBN	_	0	root	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	beating	_	NOUN	NN	_	4	dobj	_	_
+7	politically	_	ADV	RB	_	4	advmod	_	_
+8	as	_	ADP	IN	_	4	prep	_	_
+9	a	_	DET	DT	_	10	det	_	_
+10	result	_	NOUN	NN	_	8	pobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	government	_	NOUN	NN	_	4	poss	_	_
+3	's	_	PART	POS	_	2	possessive	_	_
+4	action	_	NOUN	NN	_	6	nsubj	_	_
+5	was	_	VERB	VBD	_	6	cop	_	_
+6	unusual	_	ADJ	JJ	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	university	_	NOUN	NN	_	4	nsubj	_	_
+3	is	_	AUX	VBZ	_	4	aux	_	_
+4	considering	_	VERB	VBG	_	0	root	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	settlement	_	NOUN	NN	_	7	nn	_	_
+7	proposal	_	NOUN	NN	_	4	dobj	_	_
+8	made	_	VERB	VBN	_	7	vmod	_	_
+9	by	_	ADP	IN	_	8	prep	_	_
+10	Connaught	_	PROPN	NNP	_	9	pobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	French	_	ADJ	JJ	_	2	amod	_	_
+2	state-owned	_	ADJ	JJ	_	4	amod	_	_
+3	Rhone-Poulenc	_	PROPN	NNP	_	4	nn	_	_
+4	S.A.	_	PROPN	NNP	_	5	nsubj	_	_
+5	holds	_	VERB	VBZ	_	0	root	_	_
+6	51	_	NUM	CD	_	7	num	_	_
+7	%	_	SYM	NN	_	5	dobj	_	_
+8	of	_	ADP	IN	_	7	prep	_	_
+9	Merieux	_	PROPN	NNP	_	8	pobj	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+
+1	The	_	DET	DT	_	3	det	_	_
+2	exchange	_	NOUN	NN	_	3	nn	_	_
+3	ratio	_	NOUN	NN	_	6	nsubjpass	_	_
+4	was	_	AUX	VBD	_	6	auxpass	_	_
+5	never	_	ADV	RB	_	6	neg	_	_
+6	established	_	VERB	VBN	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+
+1	Proceeds	_	NOUN	NNS	_	4	nsubjpass	_	_
+2	will	_	AUX	MD	_	4	aux	_	_
+3	be	_	AUX	VB	_	4	auxpass	_	_
+4	used	_	VERB	VBN	_	0	root	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	eliminate	_	VERB	VB	_	4	xcomp	_	_
+7	and	_	CONJ	CC	_	6	cc	_	_
+8	restructure	_	VERB	VB	_	6	conj	_	_
+9	bank	_	NOUN	NN	_	10	nn	_	_
+10	debt	_	NOUN	NN	_	6	dobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Weatherford	_	PROPN	NNP	_	3	nsubj	_	_
+2	currently	_	ADV	RB	_	3	advmod	_	_
+3	has	_	VERB	VBZ	_	0	root	_	_
+4	approximately	_	ADV	RB	_	6	quantmod	_	_
+5	11.1	_	NUM	CD	_	6	number	_	_
+6	million	_	NUM	CD	_	8	num	_	_
+7	common	_	ADJ	JJ	_	8	amod	_	_
+8	shares	_	NOUN	NNS	_	3	dobj	_	_
+9	outstanding	_	ADJ	JJ	_	8	amod	_	_
+10	.	_	PUNCT	.	_	3	punct	_	_
+
+1	In	_	ADP	IN	_	5	prep	_	_
+2	Indianapolis	_	PROPN	NNP	_	1	pobj	_	_
+3	,	_	PUNCT	,	_	5	punct	_	_
+4	Lilly	_	PROPN	NNP	_	5	nsubj	_	_
+5	declined	_	VERB	VBD	_	0	root	_	_
+6	comment	_	NOUN	NN	_	5	dobj	_	_
+7	.	_	PUNCT	.	_	5	punct	_	_
+
+1	Bristol-Myers	_	PROPN	NNP	_	2	nsubj	_	_
+2	declined	_	VERB	VBD	_	0	root	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	comment	_	VERB	VB	_	2	xcomp	_	_
+5	.	_	PUNCT	.	_	2	punct	_	_
+
+1	In	_	ADP	IN	_	7	prep	_	_
+2	New	_	PROPN	NNP	_	3	nn	_	_
+3	York	_	PROPN	NNP	_	1	pobj	_	_
+4	,	_	PUNCT	,	_	7	punct	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	company	_	NOUN	NN	_	7	nsubj	_	_
+7	declined	_	VERB	VBD	_	0	root	_	_
+8	comment	_	NOUN	NN	_	7	dobj	_	_
+9	.	_	PUNCT	.	_	7	punct	_	_
+
+1	In	_	ADP	IN	_	7	prep	_	_
+2	Kalamazoo	_	PROPN	NNP	_	1	pobj	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	Mich.	_	PROPN	NNP	_	2	appos	_	_
+5	,	_	PUNCT	,	_	2	punct	_	_
+6	Upjohn	_	PROPN	NNP	_	7	nsubj	_	_
+7	declined	_	VERB	VBD	_	0	root	_	_
+8	comment	_	NOUN	NN	_	7	dobj	_	_
+9	.	_	PUNCT	.	_	7	punct	_	_
+
+1	She	_	PRON	PRP	_	2	nsubj	_	_
+2	analyzed	_	VERB	VBD	_	0	root	_	_
+3	families	_	NOUN	NNS	_	2	dobj	_	_
+4	by	_	ADP	IN	_	2	prep	_	_
+5	their	_	PRON	PRP$	_	7	poss	_	_
+6	sleeping	_	NOUN	NN	_	7	nn	_	_
+7	arrangements	_	NOUN	NNS	_	4	pobj	_	_
+8	.	_	PUNCT	.	_	2	punct	_	_
+
+1	They	_	PRON	PRP	_	2	nsubj	_	_
+2	came	_	VERB	VBD	_	0	root	_	_
+3	by	_	ADP	IN	_	2	prep	_	_
+4	their	_	PRON	PRP$	_	5	poss	_	_
+5	strangeness	_	NOUN	NN	_	3	pobj	_	_
+6	honestly	_	ADV	RB	_	2	advmod	_	_
+7	.	_	PUNCT	.	_	2	punct	_	_
+
+1	``	_	PUNCT	``	_	7	punct	_	_
+2	An	_	DET	DT	_	4	det	_	_
+3	L.A.	_	PROPN	NNP	_	4	nn	_	_
+4	solution	_	NOUN	NN	_	7	dep	_	_
+5	,	_	PUNCT	,	_	7	punct	_	_
+6	''	_	PUNCT	''	_	7	punct	_	_
+7	explains	_	VERB	VBZ	_	0	root	_	_
+8	Mr.	_	PROPN	NNP	_	9	nn	_	_
+9	Friedman	_	PROPN	NNP	_	7	nsubj	_	_
+10	.	_	PUNCT	.	_	7	punct	_	_
+
+1	He	_	PRON	PRP	_	4	nsubj	_	_
+2	's	_	VERB	VBZ	_	4	cop	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	bore	_	NOUN	NN	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+
+1	``	_	PUNCT	``	_	3	punct	_	_
+2	Where	_	ADV	WRB	_	3	advmod	_	_
+3	's	_	VERB	VBZ	_	0	root	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	leadership	_	NOUN	NN	_	3	dep	_	_
+6	?	_	PUNCT	.	_	3	punct	_	_
+
+1	``	_	PUNCT	``	_	9	punct	_	_
+2	This	_	PRON	DT	_	4	nsubj	_	_
+3	further	_	ADV	RB	_	4	advmod	_	_
+4	confuses	_	VERB	VBZ	_	9	ccomp	_	_
+5	retailers	_	NOUN	NNS	_	4	dobj	_	_
+6	,	_	PUNCT	,	_	9	punct	_	_
+7	''	_	PUNCT	''	_	9	punct	_	_
+8	she	_	PRON	PRP	_	9	nsubj	_	_
+9	says	_	VERB	VBZ	_	0	root	_	_
+10	.	_	PUNCT	.	_	9	punct	_	_
+
+1	Is	_	VERB	VBZ	_	5	cop	_	_
+2	this	_	PRON	DT	_	5	nsubj	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	wrong	_	ADJ	JJ	_	5	amod	_	_
+5	time	_	NOUN	NN	_	0	root	_	_
+6	to	_	PART	TO	_	7	aux	_	_
+7	open	_	VERB	VB	_	5	vmod	_	_
+8	a	_	DET	DT	_	9	det	_	_
+9	store	_	NOUN	NN	_	7	dobj	_	_
+10	?	_	PUNCT	.	_	5	punct	_	_
+
+1	And	_	CONJ	CC	_	10	cc	_	_
+2	,	_	PUNCT	,	_	10	punct	_	_
+3	in	_	ADP	IN	_	10	prep	_	_
+4	some	_	DET	DT	_	5	det	_	_
+5	neighborhoods	_	NOUN	NNS	_	3	pobj	_	_
+6	,	_	PUNCT	,	_	10	punct	_	_
+7	rents	_	NOUN	NNS	_	10	nsubj	_	_
+8	have	_	AUX	VBP	_	10	aux	_	_
+9	merely	_	ADV	RB	_	10	advmod	_	_
+10	hit	_	VERB	VBN	_	0	root	_	_
+11	a	_	DET	DT	_	12	det	_	_
+12	plateau	_	NOUN	NN	_	10	dobj	_	_
+13	.	_	PUNCT	.	_	10	punct	_	_
+
+1	It	_	PRON	PRP	_	2	nsubj	_	_
+2	makes	_	VERB	VBZ	_	0	root	_	_
+3	investment	_	NOUN	NN	_	4	nn	_	_
+4	castings	_	NOUN	NNS	_	2	dobj	_	_
+5	and	_	CONJ	CC	_	2	cc	_	_
+6	has	_	AUX	VBZ	_	7	aux	_	_
+7	traded	_	VERB	VBN	_	2	conj	_	_
+8	over-the-counter	_	ADV	RB	_	7	dep	_	_
+9	.	_	PUNCT	.	_	2	punct	_	_
+
+1	The	_	DET	DT	_	4	det	_	_
+2	American	_	PROPN	NNP	_	4	nn	_	_
+3	Stock	_	PROPN	NNP	_	4	nn	_	_
+4	Exchange	_	PROPN	NNP	_	5	nsubj	_	_
+5	listed	_	VERB	VBD	_	0	root	_	_
+6	shares	_	NOUN	NNS	_	5	dobj	_	_
+7	of	_	ADP	IN	_	6	prep	_	_
+8	two	_	NUM	CD	_	9	num	_	_
+9	companies	_	NOUN	NNS	_	7	pobj	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+
+1	It	_	PRON	PRP	_	3	nsubj	_	_
+2	had	_	AUX	VBD	_	3	aux	_	_
+3	traded	_	VERB	VBN	_	0	root	_	_
+4	over-the-counter	_	ADV	RB	_	3	dep	_	_
+5	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Columbia	_	PROPN	NNP	_	3	nn	_	_
+2	Laboratories	_	PROPN	NNP	_	3	nn	_	_
+3	Inc.	_	PROPN	NNP	_	7	nsubj	_	_
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	Miami	_	PROPN	NNP	_	3	appos	_	_
+6	,	_	PUNCT	,	_	3	punct	_	_
+7	began	_	VERB	VBD	_	0	root	_	_
+8	trading	_	VERB	VBG	_	7	xcomp	_	_
+9	with	_	ADP	IN	_	8	prep	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	symbol	_	NOUN	NN	_	9	pobj	_	_
+12	COB	_	PROPN	NNP	_	11	appos	_	_
+13	.	_	PUNCT	.	_	7	punct	_	_
+
+1	The	_	DET	DT	_	3	det	_	_
+2	pharmaceuticals	_	NOUN	NNS	_	3	nn	_	_
+3	maker	_	NOUN	NN	_	5	nsubj	_	_
+4	had	_	AUX	VBD	_	5	aux	_	_
+5	traded	_	VERB	VBN	_	0	root	_	_
+6	over-the-counter	_	ADV	RB	_	5	dep	_	_
+7	.	_	PUNCT	.	_	5	punct	_	_
+
+1	And	_	CONJ	CC	_	4	cc	_	_
+2	his	_	PRON	PRP$	_	3	poss	_	_
+3	outlook	_	NOUN	NN	_	4	nsubj	_	_
+4	improved	_	VERB	VBD	_	0	root	_	_
+5	after	_	ADP	IN	_	4	prep	_	_
+6	successful	_	ADJ	JJ	_	8	amod	_	_
+7	cataract	_	NOUN	NN	_	8	nn	_	_
+8	surgery	_	NOUN	NN	_	5	pobj	_	_
+9	in	_	ADP	IN	_	8	prep	_	_
+10	August	_	PROPN	NNP	_	9	pobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	NCNB	_	PROPN	NNP	_	2	nsubj	_	_
+2	continued	_	VERB	VBD	_	0	root	_	_
+3	its	_	PRON	PRP$	_	4	poss	_	_
+4	foray	_	NOUN	NN	_	2	dobj	_	_
+5	into	_	ADP	IN	_	4	prep	_	_
+6	the	_	DET	DT	_	10	det	_	_
+7	Florida	_	PROPN	NNP	_	10	nn	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	Texas	_	PROPN	NNP	_	7	conj	_	_
+10	markets	_	NOUN	NNS	_	5	pobj	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+
+1	``	_	PUNCT	``	_	11	punct	_	_
+2	Giveaways	_	NOUN	NNS	_	4	nsubj	_	_
+3	just	_	ADV	RB	_	4	advmod	_	_
+4	give	_	VERB	VBP	_	11	ccomp	_	_
+5	people	_	NOUN	NNS	_	4	iobj	_	_
+6	the	_	DET	DT	_	8	det	_	_
+7	wrong	_	ADJ	JJ	_	8	amod	_	_
+8	image	_	NOUN	NN	_	4	dobj	_	_
+9	,	_	PUNCT	,	_	11	punct	_	_
+10	''	_	PUNCT	''	_	11	punct	_	_
+11	said	_	VERB	VBD	_	0	root	_	_
+12	Mr.	_	PROPN	NNP	_	13	nn	_	_
+13	Heinemann	_	PROPN	NNP	_	11	nsubj	_	_
+14	.	_	PUNCT	.	_	11	punct	_	_
+
+1	``	_	PUNCT	``	_	4	punct	_	_
+2	That	_	DET	DT	_	3	det	_	_
+3	perception	_	NOUN	NN	_	4	nsubj	_	_
+4	takes	_	VERB	VBZ	_	0	root	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	focus	_	NOUN	NN	_	4	dobj	_	_
+7	off	_	ADP	IN	_	4	prep	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	magazine	_	NOUN	NN	_	7	pobj	_	_
+10	.	_	PUNCT	.	_	4	punct	_	_
+11	''	_	PUNCT	''	_	4	punct	_	_
+
+1	``	_	PUNCT	``	_	4	punct	_	_
+2	We	_	PRON	PRP	_	4	nsubj	_	_
+3	are	_	AUX	VBP	_	4	aux	_	_
+4	trying	_	VERB	VBG	_	0	root	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	create	_	VERB	VB	_	4	xcomp	_	_
+7	quality	_	NOUN	NN	_	6	dobj	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	involvement	_	NOUN	NN	_	7	conj	_	_
+10	.	_	PUNCT	.	_	4	punct	_	_
+11	''	_	PUNCT	''	_	4	punct	_	_
+
+1	Still	_	ADV	RB	_	8	advmod	_	_
+2	,	_	PUNCT	,	_	8	punct	_	_
+3	Time	_	PROPN	NNP	_	5	poss	_	_
+4	's	_	PART	POS	_	3	possessive	_	_
+5	move	_	NOUN	NN	_	8	nsubjpass	_	_
+6	is	_	AUX	VBZ	_	8	aux	_	_
+7	being	_	AUX	VBG	_	8	auxpass	_	_
+8	received	_	VERB	VBN	_	0	root	_	_
+9	well	_	ADV	RB	_	8	advmod	_	_
+10	,	_	PUNCT	,	_	8	punct	_	_
+11	once	_	ADV	RB	_	12	advmod	_	_
+12	again	_	ADV	RB	_	8	advmod	_	_
+13	.	_	PUNCT	.	_	8	punct	_	_
+
+1	``	_	PUNCT	``	_	7	punct	_	_
+2	A	_	DET	DT	_	4	det	_	_
+3	few	_	ADJ	JJ	_	4	amod	_	_
+4	drops	_	NOUN	NNS	_	7	nsubj	_	_
+5	in	_	ADP	IN	_	4	prep	_	_
+6	circulation	_	NOUN	NN	_	5	pobj	_	_
+7	are	_	VERB	VBP	_	0	root	_	_
+8	of	_	ADP	IN	_	7	prep	_	_
+9	no	_	DET	DT	_	10	neg	_	_
+10	consequence	_	NOUN	NN	_	8	pobj	_	_
+11	.	_	PUNCT	.	_	7	punct	_	_
+
+1	``	_	PUNCT	``	_	12	punct	_	_
+2	They	_	PRON	PRP	_	3	nsubj	_	_
+3	said	_	VERB	VBD	_	12	ccomp	_	_
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	`	_	PUNCT	``	_	3	punct	_	_
+6	follow	_	VERB	VB	_	3	ccomp	_	_
+7	CNN	_	PROPN	NNP	_	6	dobj	_	_
+8	,	_	PUNCT	,	_	12	punct	_	_
+9	'	_	PUNCT	''	_	12	punct	_	_
+10	''	_	PUNCT	''	_	12	punct	_	_
+11	he	_	PRON	PRP	_	12	nsubj	_	_
+12	told	_	VERB	VBD	_	0	root	_	_
+13	reporters	_	NOUN	NNS	_	12	dobj	_	_
+14	.	_	PUNCT	.	_	12	punct	_	_
+
+1	But	_	CONJ	CC	_	9	cc	_	_
+2	for	_	ADP	IN	_	9	prep	_	_
+3	all	_	DET	PDT	_	5	predet	_	_
+4	its	_	PRON	PRP$	_	5	poss	_	_
+5	success	_	NOUN	NN	_	2	pobj	_	_
+6	,	_	PUNCT	,	_	9	punct	_	_
+7	CNN	_	PROPN	NNP	_	9	nsubj	_	_
+8	has	_	AUX	VBZ	_	9	aux	_	_
+9	hit	_	VERB	VBN	_	0	root	_	_
+10	a	_	DET	DT	_	11	det	_	_
+11	plateau	_	NOUN	NN	_	9	dobj	_	_
+12	.	_	PUNCT	.	_	9	punct	_	_
+
+1	``	_	PUNCT	``	_	5	punct	_	_
+2	You	_	PRON	PRP	_	5	nsubj	_	_
+3	ca	_	AUX	MD	_	5	aux	_	_
+4	n't	_	PART	RB	_	5	neg	_	_
+5	live	_	VERB	VB	_	0	root	_	_
+6	on	_	ADP	IN	_	5	prep	_	_
+7	that	_	PRON	DT	_	6	pobj	_	_
+8	.	_	PUNCT	.	_	5	punct	_	_
+9	''	_	PUNCT	''	_	5	punct	_	_
+
+1	But	_	CONJ	CC	_	6	cc	_	_
+2	that	_	PRON	DT	_	6	nsubj	_	_
+3	wo	_	AUX	MD	_	6	aux	_	_
+4	n't	_	PART	RB	_	6	neg	_	_
+5	be	_	VERB	VB	_	6	cop	_	_
+6	easy	_	ADJ	JJ	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+
+1	CNN	_	PROPN	NNP	_	2	nsubj	_	_
+2	wants	_	VERB	VBZ	_	0	root	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	change	_	VERB	VB	_	2	xcomp	_	_
+5	its	_	PRON	PRP$	_	6	poss	_	_
+6	viewers	_	NOUN	NNS	_	8	poss	_	_
+7	'	_	PART	POS	_	6	possessive	_	_
+8	habits	_	NOUN	NNS	_	4	dobj	_	_
+9	.	_	PUNCT	.	_	2	punct	_	_
+
+1	CNN	_	PROPN	NNP	_	4	poss	_	_
+2	's	_	PART	POS	_	1	possessive	_	_
+3	viewer	_	NOUN	NN	_	4	nn	_	_
+4	habits	_	NOUN	NNS	_	7	nsubjpass	_	_
+5	have	_	AUX	VBP	_	7	aux	_	_
+6	been	_	AUX	VBN	_	7	auxpass	_	_
+7	molded	_	VERB	VBN	_	0	root	_	_
+8	by	_	ADP	IN	_	7	prep	_	_
+9	its	_	PRON	PRP$	_	10	poss	_	_
+10	format	_	NOUN	NN	_	8	pobj	_	_
+11	.	_	PUNCT	.	_	7	punct	_	_
+
+1	Now	_	ADV	RB	_	6	advmod	_	_
+2	,	_	PUNCT	,	_	6	punct	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	push	_	NOUN	NN	_	6	nsubj	_	_
+5	is	_	VERB	VBZ	_	6	cop	_	_
+6	on	_	ADV	RB	_	0	root	_	_
+7	for	_	ADP	IN	_	6	prep	_	_
+8	more-distinctive	_	ADJ	JJR	_	9	amod	_	_
+9	shows	_	NOUN	NNS	_	7	pobj	_	_
+10	.	_	PUNCT	.	_	6	punct	_	_
+
+1	Some	_	DET	DT	_	6	nsubj	_	_
+2	in	_	ADP	IN	_	1	prep	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	industry	_	NOUN	NN	_	2	pobj	_	_
+5	are	_	VERB	VBP	_	6	cop	_	_
+6	skeptical	_	ADJ	JJ	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+
+1	Admittedly	_	ADV	RB	_	10	advmod	_	_
+2	,	_	PUNCT	,	_	10	punct	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	principle	_	NOUN	NN	_	10	nsubj	_	_
+5	in	_	ADP	IN	_	4	prep	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	cases	_	NOUN	NNS	_	5	pobj	_	_
+8	is	_	VERB	VBZ	_	10	cop	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	same	_	ADJ	JJ	_	0	root	_	_
+11	.	_	PUNCT	.	_	10	punct	_	_
+
+1	Charles	_	PROPN	NNP	_	3	nn	_	_
+2	F.	_	PROPN	NNP	_	3	nn	_	_
+3	Vihon	_	PROPN	NNP	_	0	root	_	_
+
+1	Call	_	VERB	VB	_	0	root	_	_
+2	it	_	PRON	PRP	_	12	nsubj	_	_
+3	the	_	DET	DT	_	12	det	_	_
+4	``	_	PUNCT	``	_	12	punct	_	_
+5	we	_	PRON	PRP	_	8	nsubj	_	_
+6	're	_	VERB	VBP	_	8	cop	_	_
+7	too	_	ADV	RB	_	8	advmod	_	_
+8	broke	_	ADJ	JJ	_	12	dep	_	_
+9	to	_	PART	TO	_	10	aux	_	_
+10	fight	_	VERB	VB	_	8	xcomp	_	_
+11	''	_	PUNCT	''	_	12	punct	_	_
+12	defense	_	NOUN	NN	_	1	xcomp	_	_
+13	.	_	PUNCT	.	_	1	punct	_	_
+
+1	Sunbelt	_	PROPN	NNP	_	2	nsubj	_	_
+2	foreclosed	_	VERB	VBD	_	0	root	_	_
+3	on	_	ADP	IN	_	2	prep	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	ranch	_	NOUN	NN	_	3	pobj	_	_
+6	.	_	PUNCT	.	_	2	punct	_	_
+
+1	A	_	DET	DT	_	3	det	_	_
+2	new	_	ADJ	JJ	_	3	amod	_	_
+3	president	_	NOUN	NN	_	6	nsubjpass	_	_
+4	was	_	AUX	VBD	_	6	auxpass	_	_
+5	n't	_	PART	RB	_	6	neg	_	_
+6	named	_	VERB	VBN	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	device	_	NOUN	NN	_	4	nsubjpass	_	_
+3	was	_	AUX	VBD	_	4	auxpass	_	_
+4	replaced	_	VERB	VBN	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+
+1	He	_	PRON	PRP	_	2	nsubj	_	_
+2	made	_	VERB	VBD	_	0	root	_	_
+3	his	_	PRON	PRP$	_	4	poss	_	_
+4	remarks	_	NOUN	NNS	_	2	dobj	_	_
+5	to	_	ADP	TO	_	2	prep	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	PLO	_	PROPN	NNP	_	8	nn	_	_
+8	gathering	_	NOUN	NN	_	5	pobj	_	_
+9	in	_	ADP	IN	_	8	prep	_	_
+10	Baghdad	_	PROPN	NNP	_	9	pobj	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+
+1	DWG	_	PROPN	NNP	_	5	nsubj	_	_
+2	is	_	VERB	VBZ	_	5	cop	_	_
+3	a	_	DET	DT	_	5	det	_	_
+4	holding	_	NOUN	NN	_	5	nn	_	_
+5	company	_	NOUN	NN	_	0	root	_	_
+6	controlled	_	VERB	VBN	_	5	vmod	_	_
+7	by	_	ADP	IN	_	6	prep	_	_
+8	Mr.	_	PROPN	NNP	_	9	nn	_	_
+9	Posner	_	PROPN	NNP	_	7	pobj	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+
+1	``	_	PUNCT	``	_	5	punct	_	_
+2	The	_	DET	DT	_	4	det	_	_
+3	core	_	ADJ	JJ	_	4	amod	_	_
+4	rate	_	NOUN	NN	_	5	nsubj	_	_
+5	is	_	VERB	VBZ	_	0	root	_	_
+6	not	_	PART	RB	_	5	neg	_	_
+7	really	_	ADV	RB	_	5	advmod	_	_
+8	out	_	ADP	IN	_	5	advmod	_	_
+9	of	_	ADP	IN	_	8	prep	_	_
+10	line	_	NOUN	NN	_	9	pobj	_	_
+11	.	_	PUNCT	.	_	5	punct	_	_
+12	''	_	PUNCT	''	_	5	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	woman	_	NOUN	NN	_	3	nsubj	_	_
+3	won	_	VERB	VBD	_	0	root	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	bet	_	NOUN	NN	_	3	dobj	_	_
+6	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Attempts	_	NOUN	NNS	_	10	nsubj	_	_
+2	to	_	PART	TO	_	3	aux	_	_
+3	produce	_	VERB	VB	_	1	vmod	_	_
+4	``	_	PUNCT	``	_	7	punct	_	_
+5	pan-European	_	ADJ	JJ	_	7	amod	_	_
+6	''	_	PUNCT	''	_	7	punct	_	_
+7	programs	_	NOUN	NNS	_	3	dobj	_	_
+8	have	_	AUX	VBP	_	10	aux	_	_
+9	generally	_	ADV	RB	_	10	advmod	_	_
+10	resulted	_	VERB	VBN	_	0	root	_	_
+11	in	_	ADP	IN	_	10	prep	_	_
+12	disappointment	_	NOUN	NN	_	11	pobj	_	_
+13	.	_	PUNCT	.	_	10	punct	_	_
+
+1	Most	_	ADJ	JJS	_	3	amod	_	_
+2	British	_	ADJ	JJ	_	3	amod	_	_
+3	programming	_	NOUN	NN	_	5	nsubj	_	_
+4	is	_	VERB	VBZ	_	5	cop	_	_
+5	more	_	ADJ	JJR	_	0	root	_	_
+6	of	_	ADP	IN	_	5	prep	_	_
+7	an	_	DET	DT	_	9	det	_	_
+8	acquired	_	ADJ	JJ	_	9	amod	_	_
+9	taste	_	NOUN	NN	_	6	pobj	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+
+1	European	_	ADJ	JJ	_	2	amod	_	_
+2	drama	_	NOUN	NN	_	4	nsubj	_	_
+3	has	_	AUX	VBZ	_	4	aux	_	_
+4	had	_	VERB	VBN	_	0	root	_	_
+5	better	_	ADJ	JJR	_	11	amod	_	_
+6	,	_	PUNCT	,	_	9	punct	_	_
+7	though	_	SCONJ	IN	_	9	mark	_	_
+8	still	_	ADV	RB	_	9	advmod	_	_
+9	mixed	_	ADJ	JJ	_	11	dep	_	_
+10	,	_	PUNCT	,	_	9	punct	_	_
+11	fortunes	_	NOUN	NNS	_	4	dobj	_	_
+12	.	_	PUNCT	.	_	4	punct	_	_
+
+1	The	_	DET	DT	_	5	det	_	_
+2	most	_	ADV	RBS	_	3	advmod	_	_
+3	popular	_	ADJ	JJ	_	5	amod	_	_
+4	such	_	ADJ	JJ	_	5	amod	_	_
+5	shows	_	NOUN	NNS	_	6	nsubj	_	_
+6	focus	_	VERB	VBP	_	0	root	_	_
+7	on	_	ADP	IN	_	6	prep	_	_
+8	narrow	_	ADJ	JJ	_	10	amod	_	_
+9	national	_	ADJ	JJ	_	10	amod	_	_
+10	concerns	_	NOUN	NNS	_	7	pobj	_	_
+11	.	_	PUNCT	.	_	6	punct	_	_
+
+1	``	_	PUNCT	``	_	8	punct	_	_
+2	Given	_	VERB	VBN	_	8	prep	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	choice	_	NOUN	NN	_	2	pobj	_	_
+5	,	_	PUNCT	,	_	8	punct	_	_
+6	everybody	_	PRON	NN	_	8	nsubj	_	_
+7	will	_	AUX	MD	_	8	aux	_	_
+8	watch	_	VERB	VB	_	0	root	_	_
+9	a	_	DET	DT	_	11	det	_	_
+10	home-produced	_	ADJ	JJ	_	11	amod	_	_
+11	show	_	NOUN	NN	_	8	dobj	_	_
+12	.	_	PUNCT	.	_	8	punct	_	_
+13	''	_	PUNCT	''	_	8	punct	_	_
+
+1	But	_	CONJ	CC	_	4	cc	_	_
+2	frequently	_	ADV	RB	_	4	advmod	_	_
+3	there	_	PRON	EX	_	4	expl	_	_
+4	is	_	VERB	VBZ	_	0	root	_	_
+5	n't	_	PART	RB	_	4	neg	_	_
+6	much	_	ADJ	JJ	_	7	amod	_	_
+7	choice	_	ADJ	JJ	_	4	nsubj	_	_
+8	.	_	PUNCT	.	_	4	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	result	_	NOUN	NN	_	8	nsubj	_	_
+3	is	_	VERB	VBZ	_	8	cop	_	_
+4	a	_	DET	DT	_	8	det	_	_
+5	new	_	ADJ	JJ	_	8	amod	_	_
+6	and	_	CONJ	CC	_	5	cc	_	_
+7	huge	_	ADJ	JJ	_	5	conj	_	_
+8	appetite	_	NOUN	NN	_	0	root	_	_
+9	for	_	ADP	IN	_	8	prep	_	_
+10	programming	_	NOUN	NN	_	9	pobj	_	_
+11	.	_	PUNCT	.	_	8	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	companies	_	NOUN	NNS	_	3	nsubj	_	_
+3	hope	_	VERB	VBP	_	0	root	_	_
+4	for	_	ADP	IN	_	3	prep	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	final	_	ADJ	JJ	_	7	amod	_	_
+7	agreement	_	NOUN	NN	_	4	pobj	_	_
+8	by	_	ADP	IN	_	7	prep	_	_
+9	year-end	_	NOUN	NN	_	8	pobj	_	_
+10	.	_	PUNCT	.	_	3	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	venture	_	NOUN	NN	_	4	poss	_	_
+3	's	_	PART	POS	_	2	possessive	_	_
+4	importance	_	NOUN	NN	_	8	nsubj	_	_
+5	for	_	ADP	IN	_	4	prep	_	_
+6	Thomson	_	PROPN	NNP	_	5	pobj	_	_
+7	is	_	VERB	VBZ	_	8	cop	_	_
+8	great	_	ADJ	JJ	_	0	root	_	_
+9	.	_	PUNCT	.	_	8	punct	_	_
+
+1	``	_	PUNCT	``	_	8	punct	_	_
+2	It	_	PRON	PRP	_	8	nsubj	_	_
+3	's	_	VERB	VBZ	_	8	cop	_	_
+4	very	_	ADV	RB	_	5	advmod	_	_
+5	much	_	ADV	RB	_	8	advmod	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	growing	_	VERB	VBG	_	8	amod	_	_
+8	concern	_	NOUN	NN	_	0	root	_	_
+9	.	_	PUNCT	.	_	8	punct	_	_
+
+1	But	_	CONJ	CC	_	3	cc	_	_
+2	that	_	PRON	DT	_	3	nsubj	_	_
+3	was	_	VERB	VBD	_	0	root	_	_
+4	all	_	DET	DT	_	6	quantmod	_	_
+5	of	_	ADP	IN	_	6	quantmod	_	_
+6	three	_	NUM	CD	_	7	num	_	_
+7	months	_	NOUN	NNS	_	8	npadvmod	_	_
+8	ago	_	ADV	RB	_	3	advmod	_	_
+9	.	_	PUNCT	.	_	3	punct	_	_
+
+1	``	_	PUNCT	``	_	4	punct	_	_
+2	The	_	DET	DT	_	3	det	_	_
+3	industry	_	NOUN	NN	_	4	nsubj	_	_
+4	defies	_	VERB	VBZ	_	0	root	_	_
+5	characterization	_	NOUN	NN	_	4	dobj	_	_
+6	.	_	PUNCT	.	_	4	punct	_	_
+7	''	_	PUNCT	''	_	4	punct	_	_
+
+1	Another	_	DET	DT	_	3	det	_	_
+2	contradictory	_	ADJ	JJ	_	3	amod	_	_
+3	message	_	NOUN	NN	_	4	nsubj	_	_
+4	comes	_	VERB	VBZ	_	0	root	_	_
+5	from	_	ADP	IN	_	4	prep	_	_
+6	Businessland	_	PROPN	NNP	_	7	nn	_	_
+7	Inc.	_	PROPN	NNP	_	5	pobj	_	_
+8	,	_	PUNCT	,	_	7	punct	_	_
+9	a	_	DET	DT	_	11	det	_	_
+10	computer	_	NOUN	NN	_	11	nn	_	_
+11	retailer	_	NOUN	NN	_	7	appos	_	_
+12	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Companies	_	NOUN	NNS	_	3	nsubj	_	_
+2	will	_	AUX	MD	_	3	aux	_	_
+3	continue	_	VERB	VB	_	0	root	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	war	_	VERB	VB	_	3	xcomp	_	_
+6	over	_	ADP	IN	_	5	prep	_	_
+7	standards	_	NOUN	NNS	_	6	pobj	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+
+1	The	_	DET	DT	_	3	det	_	_
+2	short-term	_	ADJ	JJ	_	3	amod	_	_
+3	outlook	_	NOUN	NN	_	11	nsubj	_	_
+4	for	_	ADP	IN	_	3	prep	_	_
+5	Adobe	_	PROPN	NNP	_	7	poss	_	_
+6	's	_	PART	POS	_	5	possessive	_	_
+7	business	_	NOUN	NN	_	4	pobj	_	_
+8	,	_	PUNCT	,	_	11	punct	_	_
+9	however	_	ADV	RB	_	11	advmod	_	_
+10	,	_	PUNCT	,	_	11	punct	_	_
+11	appears	_	VERB	VBZ	_	0	root	_	_
+12	strong	_	ADJ	JJ	_	11	acomp	_	_
+13	.	_	PUNCT	.	_	11	punct	_	_
+
+1	Aldus	_	PROPN	NNP	_	2	nn	_	_
+2	officials	_	NOUN	NNS	_	6	nsubjpass	_	_
+3	could	_	AUX	MD	_	6	aux	_	_
+4	n't	_	PART	RB	_	6	neg	_	_
+5	be	_	AUX	VB	_	6	auxpass	_	_
+6	reached	_	VERB	VBN	_	0	root	_	_
+7	for	_	ADP	IN	_	6	prep	_	_
+8	comment	_	NOUN	NN	_	7	pobj	_	_
+9	.	_	PUNCT	.	_	6	punct	_	_
+
+1	A	_	DET	DT	_	2	det	_	_
+2	bus	_	NOUN	NN	_	6	nsubj	_	_
+3	is	_	VERB	VBZ	_	6	cop	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	data	_	NOUN	NNS	_	6	nn	_	_
+6	highway	_	NOUN	NN	_	0	root	_	_
+7	within	_	ADP	IN	_	6	prep	_	_
+8	a	_	DET	DT	_	9	det	_	_
+9	computer	_	NOUN	NN	_	7	pobj	_	_
+10	.	_	PUNCT	.	_	6	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	gap	_	NOUN	NN	_	8	nsubj	_	_
+3	between	_	ADP	IN	_	2	prep	_	_
+4	winners	_	NOUN	NNS	_	3	pobj	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	laggards	_	NOUN	NNS	_	4	conj	_	_
+7	will	_	AUX	MD	_	8	aux	_	_
+8	grow	_	VERB	VB	_	0	root	_	_
+9	.	_	PUNCT	.	_	8	punct	_	_
+
+1	But	_	CONJ	CC	_	4	cc	_	_
+2	they	_	PRON	PRP	_	4	nsubj	_	_
+3	will	_	AUX	MD	_	4	aux	_	_
+4	have	_	VERB	VB	_	0	root	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	act	_	VERB	VB	_	4	xcomp	_	_
+7	quickly	_	ADV	RB	_	6	advmod	_	_
+8	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Population	_	NOUN	NN	_	2	nn	_	_
+2	Drain	_	NOUN	NN	_	3	nsubj	_	_
+3	Ends	_	VERB	VBZ	_	0	root	_	_
+4	For	_	ADP	IN	_	3	prep	_	_
+5	Midwestern	_	ADJ	JJ	_	6	amod	_	_
+6	States	_	NOUN	NNS	_	4	pobj	_	_
+
+1	IOWA	_	PROPN	NNP	_	3	nsubj	_	_
+2	IS	_	AUX	VBZ	_	3	aux	_	_
+3	MAKING	_	VERB	VBG	_	0	root	_	_
+4	a	_	DET	DT	_	5	det	_	_
+5	comeback	_	NOUN	NN	_	3	dobj	_	_
+6	.	_	PUNCT	.	_	3	punct	_	_
+
+1	So	_	ADV	RB	_	2	advmod	_	_
+2	are	_	VERB	VBP	_	0	root	_	_
+3	Indiana	_	PROPN	NNP	_	2	nsubj	_	_
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	Ohio	_	PROPN	NNP	_	3	conj	_	_
+6	and	_	CONJ	CC	_	3	cc	_	_
+7	Michigan	_	PROPN	NNP	_	3	conj	_	_
+8	.	_	PUNCT	.	_	2	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	gains	_	NOUN	NNS	_	10	nsubj	_	_
+3	,	_	PUNCT	,	_	10	punct	_	_
+4	to	_	PART	TO	_	6	aux	_	_
+5	be	_	VERB	VB	_	6	cop	_	_
+6	sure	_	ADJ	JJ	_	10	dep	_	_
+7	,	_	PUNCT	,	_	10	punct	_	_
+8	are	_	VERB	VBP	_	10	cop	_	_
+9	rather	_	ADV	RB	_	10	advmod	_	_
+10	small	_	ADJ	JJ	_	0	root	_	_
+11	.	_	PUNCT	.	_	10	punct	_	_
+
+1	More	_	ADJ	JJR	_	3	nsubj	_	_
+2	Elderly	_	ADJ	JJ	_	1	amod	_	_
+3	Maintain	_	VERB	VBP	_	0	root	_	_
+4	Their	_	PRON	PRP$	_	5	poss	_	_
+5	Independence	_	NOUN	NN	_	3	dobj	_	_
+
+1	THANKS	_	NOUN	NNS	_	9	dep	_	_
+2	TO	_	ADP	TO	_	1	prep	_	_
+3	modern	_	ADJ	JJ	_	4	amod	_	_
+4	medicine	_	NOUN	NN	_	2	pobj	_	_
+5	,	_	PUNCT	,	_	9	punct	_	_
+6	more	_	ADJ	JJR	_	7	amod	_	_
+7	couples	_	NOUN	NNS	_	9	nsubj	_	_
+8	are	_	AUX	VBP	_	9	aux	_	_
+9	growing	_	VERB	VBG	_	0	root	_	_
+10	old	_	ADJ	JJ	_	9	acomp	_	_
+11	together	_	ADV	RB	_	9	advmod	_	_
+12	.	_	PUNCT	.	_	9	punct	_	_
+
+1	That	_	DET	DT	_	2	det	_	_
+2	share	_	NOUN	NN	_	4	nsubj	_	_
+3	has	_	AUX	VBZ	_	4	aux	_	_
+4	remained	_	VERB	VBN	_	0	root	_	_
+5	at	_	ADP	IN	_	4	prep	_	_
+6	about	_	ADV	RB	_	7	quantmod	_	_
+7	24	_	NUM	CD	_	8	num	_	_
+8	%	_	SYM	NN	_	5	pobj	_	_
+9	since	_	ADP	IN	_	4	prep	_	_
+10	1970	_	NUM	CD	_	9	pobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	As	_	SCONJ	IN	_	3	mark	_	_
+2	people	_	NOUN	NNS	_	3	nsubj	_	_
+3	get	_	VERB	VB	_	8	advcl	_	_
+4	even	_	ADV	RB	_	5	advmod	_	_
+5	older	_	ADJ	JJR	_	3	acomp	_	_
+6	,	_	PUNCT	,	_	8	punct	_	_
+7	many	_	ADJ	JJ	_	8	nsubj	_	_
+8	become	_	VERB	VBP	_	0	root	_	_
+9	widowed	_	ADJ	JJ	_	8	acomp	_	_
+10	.	_	PUNCT	.	_	8	punct	_	_
+
+1	Careers	_	NOUN	NNS	_	2	nsubj	_	_
+2	Count	_	VERB	VBP	_	0	root	_	_
+3	Most	_	ADV	RBS	_	2	advmod	_	_
+4	For	_	ADP	IN	_	2	prep	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	Well-to-Do	_	ADJ	JJ	_	4	pobj	_	_
+
+1	MANY	_	ADJ	JJ	_	3	amod	_	_
+2	AFFLUENT	_	ADJ	JJ	_	3	amod	_	_
+3	people	_	NOUN	NNS	_	4	nsubj	_	_
+4	place	_	VERB	VBP	_	0	root	_	_
+5	personal	_	ADJ	JJ	_	6	amod	_	_
+6	success	_	NOUN	NN	_	4	dobj	_	_
+7	and	_	CONJ	CC	_	6	cc	_	_
+8	money	_	NOUN	NN	_	6	conj	_	_
+9	above	_	ADP	IN	_	4	prep	_	_
+10	family	_	NOUN	NN	_	9	pobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Many	_	ADJ	JJ	_	7	nsubj	_	_
+2	of	_	ADP	IN	_	1	prep	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	affluent	_	NOUN	NN	_	2	pobj	_	_
+5	are	_	VERB	VBP	_	7	cop	_	_
+6	n't	_	PART	RB	_	7	neg	_	_
+7	comfortable	_	ADJ	JJ	_	0	root	_	_
+8	with	_	ADP	IN	_	7	prep	_	_
+9	themselves	_	PRON	PRP	_	8	pobj	_	_
+10	,	_	PUNCT	,	_	7	punct	_	_
+11	either	_	ADV	RB	_	7	advmod	_	_
+12	.	_	PUNCT	.	_	7	punct	_	_
+
+1	Odds	_	NOUN	NNS	_	0	root	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	Ends	_	NOUN	NNS	_	1	conj	_	_
+
+1	This	_	DET	DT	_	4	det	_	_
+2	small	_	ADJ	JJ	_	4	amod	_	_
+3	Dallas	_	PROPN	NNP	_	4	nn	_	_
+4	suburb	_	NOUN	NN	_	6	nsubjpass	_	_
+5	's	_	PART	POS	_	6	auxpass	_	_
+6	got	_	VERB	VBD	_	0	root	_	_
+7	trouble	_	NOUN	NN	_	6	dobj	_	_
+8	.	_	PUNCT	.	_	6	punct	_	_
+
+1	Introducing	_	VERB	VBG	_	12	csubj	_	_
+2	pool	_	NOUN	NN	_	1	dobj	_	_
+3	,	_	PUNCT	,	_	4	punct	_	_
+4	argued	_	VERB	VBD	_	12	parataxis	_	_
+5	Councilwoman	_	PROPN	NNP	_	7	nn	_	_
+6	Riley	_	PROPN	NNP	_	7	nn	_	_
+7	Reinker	_	PROPN	NNP	_	4	nsubj	_	_
+8	,	_	PUNCT	,	_	4	punct	_	_
+9	would	_	AUX	MD	_	12	aux	_	_
+10	be	_	VERB	VB	_	12	cop	_	_
+11	``	_	PUNCT	``	_	12	punct	_	_
+12	dangerous	_	ADJ	JJ	_	0	root	_	_
+13	.	_	PUNCT	.	_	12	punct	_	_
+
+1	It	_	PRON	PRP	_	3	nsubj	_	_
+2	would	_	AUX	MD	_	3	aux	_	_
+3	open	_	VERB	VB	_	0	root	_	_
+4	a	_	DET	DT	_	5	det	_	_
+5	can	_	NOUN	NN	_	3	dobj	_	_
+6	of	_	ADP	IN	_	5	prep	_	_
+7	worms	_	NOUN	NNS	_	6	pobj	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+9	''	_	PUNCT	''	_	3	punct	_	_
+
+1	Addison	_	PROPN	NNP	_	4	nsubj	_	_
+2	is	_	VERB	VBZ	_	4	cop	_	_
+3	no	_	DET	DT	_	4	neg	_	_
+4	stranger	_	NOUN	NN	_	0	root	_	_
+5	to	_	ADP	TO	_	4	prep	_	_
+6	cans	_	NOUN	NNS	_	5	pobj	_	_
+7	of	_	ADP	IN	_	6	prep	_	_
+8	worms	_	NOUN	NNS	_	7	pobj	_	_
+9	,	_	PUNCT	,	_	4	punct	_	_
+10	either	_	ADV	RB	_	4	advmod	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Now	_	ADV	RB	_	2	advmod	_	_
+2	comes	_	VERB	VBZ	_	0	root	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	pool	_	NOUN	NN	_	5	nn	_	_
+5	flap	_	NOUN	NN	_	2	nsubj	_	_
+6	.	_	PUNCT	.	_	2	punct	_	_
+
+1	And	_	CONJ	CC	_	14	cc	_	_
+2	the	_	DET	DT	_	4	det	_	_
+3	local	_	ADJ	JJ	_	4	amod	_	_
+4	expression	_	NOUN	NN	_	14	nsubj	_	_
+5	for	_	ADP	IN	_	4	prep	_	_
+6	brother	_	NOUN	NN	_	5	pobj	_	_
+7	is	_	VERB	VBZ	_	14	cop	_	_
+8	``	_	PUNCT	``	_	14	punct	_	_
+9	brah	_	X	FW	_	14	nn	_	_
+10	,	_	PUNCT	,	_	14	punct	_	_
+11	''	_	PUNCT	''	_	14	punct	_	_
+12	not	_	ADV	RB	_	14	neg	_	_
+13	``	_	PUNCT	``	_	14	punct	_	_
+14	bruddah	_	X	FW	_	0	root	_	_
+15	.	_	PUNCT	.	_	14	punct	_	_
+16	''	_	PUNCT	''	_	14	punct	_	_
+
+1	Anita	_	PROPN	NNP	_	2	nn	_	_
+2	Davis	_	PROPN	NNP	_	0	root	_	_
+
+1	Of	_	ADP	IN	_	8	prep	_	_
+2	course	_	NOUN	NN	_	1	pobj	_	_
+3	,	_	PUNCT	,	_	8	punct	_	_
+4	Mr.	_	PROPN	NNP	_	5	nn	_	_
+5	Mason	_	PROPN	NNP	_	8	nsubj	_	_
+6	did	_	AUX	VBD	_	8	aux	_	_
+7	not	_	PART	RB	_	8	neg	_	_
+8	use	_	VERB	VB	_	0	root	_	_
+9	neutral	_	ADJ	JJ	_	10	amod	_	_
+10	language	_	NOUN	NN	_	8	dobj	_	_
+11	.	_	PUNCT	.	_	8	punct	_	_
+
+1	People	_	NOUN	NNS	_	4	nsubj	_	_
+2	are	_	AUX	VBP	_	4	aux	_	_
+3	fast	_	ADV	RB	_	4	advmod	_	_
+4	leaving	_	VERB	VBG	_	0	root	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	place	_	NOUN	NN	_	4	dobj	_	_
+7	where	_	ADV	WRB	_	10	advmod	_	_
+8	he	_	PRON	PRP	_	10	nsubjpass	_	_
+9	is	_	AUX	VBZ	_	10	auxpass	_	_
+10	stuck	_	VERB	VBN	_	6	rcmod	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+12	''	_	PUNCT	''	_	4	punct	_	_
+
+1	Why	_	ADV	WRB	_	2	advmod	_	_
+2	constructive	_	ADJ	JJ	_	0	root	_	_
+3	?	_	PUNCT	.	_	2	punct	_	_
+
+1	But	_	CONJ	CC	_	6	cc	_	_
+2	these	_	PRON	DT	_	6	nsubj	_	_
+3	are	_	VERB	VBP	_	6	cop	_	_
+4	not	_	PART	RB	_	6	neg	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	differences	_	NOUN	NNS	_	0	root	_	_
+7	that	_	PRON	WDT	_	8	nsubj	_	_
+8	make	_	VERB	VBP	_	6	rcmod	_	_
+9	headlines	_	NOUN	NNS	_	8	dobj	_	_
+10	.	_	PUNCT	.	_	6	punct	_	_
+
+1	It	_	PRON	PRP	_	3	nsubj	_	_
+2	's	_	PART	POS	_	3	dep	_	_
+3	worth	_	ADJ	JJ	_	0	root	_	_
+4	noting	_	VERB	VBG	_	3	dep	_	_
+5	that	_	SCONJ	IN	_	10	mark	_	_
+6	both	_	DET	DT	_	8	det	_	_
+7	disapproving	_	ADJ	JJ	_	8	amod	_	_
+8	relatives	_	NOUN	NNS	_	10	nsubj	_	_
+9	are	_	VERB	VBP	_	10	cop	_	_
+10	immigrants	_	NOUN	NNS	_	3	ccomp	_	_
+11	.	_	PUNCT	.	_	3	punct	_	_
+
+1	So	_	ADP	IN	_	8	advmod	_	_
+2	far	_	ADV	RB	_	1	advmod	_	_
+3	,	_	PUNCT	,	_	8	punct	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	bubbles	_	NOUN	NNS	_	8	nsubj	_	_
+6	have	_	AUX	VBP	_	8	aux	_	_
+7	been	_	VERB	VBN	_	8	cop	_	_
+8	few	_	ADJ	JJ	_	0	root	_	_
+9	and	_	CONJ	CC	_	8	cc	_	_
+10	far	_	ADV	RB	_	11	advmod	_	_
+11	between	_	ADV	RB	_	8	advmod	_	_
+12	.	_	PUNCT	.	_	8	punct	_	_
+
+1	Sound	_	VERB	VB	_	0	root	_	_
+2	familiar	_	ADJ	JJ	_	1	acomp	_	_
+3	?	_	PUNCT	.	_	1	punct	_	_
+
+1	Heard	_	VERB	VBN	_	0	root	_	_
+2	that	_	PRON	DT	_	1	dobj	_	_
+3	before	_	ADV	RB	_	1	advmod	_	_
+4	?	_	PUNCT	.	_	1	punct	_	_
+
+1	Opponents	_	NOUN	NNS	_	6	nsubj	_	_
+2	of	_	ADP	IN	_	1	prep	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	cut	_	NOUN	NN	_	2	pobj	_	_
+5	are	_	AUX	VBP	_	6	aux	_	_
+6	playing	_	VERB	VBG	_	0	root	_	_
+7	hardball	_	NOUN	NN	_	6	dobj	_	_
+8	.	_	PUNCT	.	_	6	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	House	_	PROPN	NNP	_	3	nsubj	_	_
+3	appears	_	VERB	VBZ	_	0	root	_	_
+4	reluctant	_	ADJ	JJ	_	3	acomp	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	join	_	VERB	VB	_	4	xcomp	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	senators	_	NOUN	NNS	_	6	dobj	_	_
+9	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Things	_	NOUN	NNS	_	4	nsubj	_	_
+2	had	_	AUX	VBD	_	4	aux	_	_
+3	just	_	ADV	RB	_	4	advmod	_	_
+4	gone	_	VERB	VBN	_	0	root	_	_
+5	too	_	ADV	RB	_	6	advmod	_	_
+6	far	_	ADV	RB	_	4	advmod	_	_
+7	.	_	PUNCT	.	_	4	punct	_	_
+8	''	_	PUNCT	''	_	4	punct	_	_
+
+1	The	_	DET	DT	_	3	det	_	_
+2	revenue-raising	_	ADJ	JJ	_	3	amod	_	_
+3	provisions	_	NOUN	NNS	_	0	root	_	_
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	which	_	PRON	WDT	_	6	nsubj	_	_
+6	affect	_	VERB	VBP	_	3	rcmod	_	_
+7	mostly	_	ADV	RB	_	8	advmod	_	_
+8	corporations	_	NOUN	NNS	_	6	dobj	_	_
+9	,	_	PUNCT	,	_	3	punct	_	_
+10	would	_	AUX	MD	_	3	dep	_	_
+11	:	_	PUNCT	:	_	3	punct	_	_
+
+1	Among	_	ADP	IN	_	0	root	_	_
+2	its	_	PRON	PRP$	_	3	poss	_	_
+3	provisions	_	NOUN	NNS	_	1	pobj	_	_
+4	:	_	PUNCT	:	_	1	punct	_	_
+
+1	A	_	DET	DT	_	3	det	_	_
+2	similar	_	ADJ	JJ	_	3	amod	_	_
+3	provision	_	NOUN	NN	_	4	nsubj	_	_
+4	is	_	VERB	VBZ	_	0	root	_	_
+5	in	_	ADP	IN	_	4	prep	_	_
+6	the	_	DET	DT	_	8	det	_	_
+7	House	_	PROPN	NNP	_	8	nn	_	_
+8	version	_	NOUN	NN	_	5	pobj	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+
+1	John	_	PROPN	NNP	_	3	nn	_	_
+2	E.	_	PROPN	NNP	_	3	nn	_	_
+3	Yang	_	PROPN	NNP	_	4	nsubj	_	_
+4	contributed	_	VERB	VBD	_	0	root	_	_
+5	to	_	ADP	TO	_	4	prep	_	_
+6	this	_	DET	DT	_	7	det	_	_
+7	article	_	NOUN	NN	_	5	pobj	_	_
+8	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Are	_	AUX	VBP	_	3	aux	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	kidding	_	VERB	VBG	_	0	root	_	_
+4	?	_	PUNCT	.	_	3	punct	_	_
+
+1	Your	_	PRON	PRP$	_	2	poss	_	_
+2	paper	_	NOUN	NN	_	3	nsubj	_	_
+3	needs	_	VERB	VBZ	_	0	root	_	_
+4	a	_	DET	DT	_	7	det	_	_
+5	serious	_	ADJ	JJ	_	7	amod	_	_
+6	reality	_	NOUN	NN	_	7	nn	_	_
+7	check	_	NOUN	NN	_	3	dobj	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Reva	_	PROPN	NNP	_	2	nn	_	_
+2	Levin	_	PROPN	NNP	_	0	root	_	_
+
+1	Cambridge	_	PROPN	NNP	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	Mass	_	PROPN	NNP	_	1	appos	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Columbia	_	PROPN	NNP	_	2	nn	_	_
+2	Savings	_	PROPN	NNP	_	6	nsubj	_	_
+3	is	_	VERB	VBZ	_	6	cop	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	major	_	ADJ	JJ	_	6	amod	_	_
+6	holder	_	NOUN	NN	_	0	root	_	_
+7	of	_	ADP	IN	_	6	prep	_	_
+8	so-called	_	ADJ	JJ	_	10	amod	_	_
+9	junk	_	NOUN	NN	_	10	nn	_	_
+10	bonds	_	NOUN	NNS	_	7	pobj	_	_
+11	.	_	PUNCT	.	_	6	punct	_	_
+
+1	FRANKLIN	_	PROPN	NNP	_	3	nn	_	_
+2	SAVINGS	_	PROPN	NNP	_	3	nn	_	_
+3	ASSOCIATION	_	PROPN	NNP	_	0	root	_	_
+4	-LRB-	_	PUNCT	-LRB-	_	5	punct	_	_
+5	Ottawa	_	PROPN	NNP	_	3	dep	_	_
+6	,	_	PUNCT	,	_	5	punct	_	_
+7	Kan.	_	PROPN	NNP	_	5	appos	_	_
+8	-RRB-	_	PUNCT	-RRB-	_	5	punct	_	_
+9	--	_	PUNCT	:	_	3	punct	_	_
+
+1	``	_	PUNCT	``	_	3	punct	_	_
+2	I	_	PRON	PRP	_	3	nsubj	_	_
+3	think	_	VERB	VBP	_	0	root	_	_
+4	it	_	PRON	PRP	_	8	nsubj	_	_
+5	was	_	VERB	VBD	_	8	cop	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	little	_	ADJ	JJ	_	8	npadvmod	_	_
+8	premature	_	ADJ	JJ	_	3	ccomp	_	_
+9	on	_	ADP	IN	_	8	prep	_	_
+10	their	_	PRON	PRP$	_	11	poss	_	_
+11	part	_	NOUN	NN	_	9	pobj	_	_
+12	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Does	_	AUX	VBZ	_	3	aux	_	_
+2	this	_	PRON	DT	_	3	nsubj	_	_
+3	signal	_	VERB	VB	_	0	root	_	_
+4	another	_	DET	DT	_	6	det	_	_
+5	Black	_	PROPN	NNP	_	6	nn	_	_
+6	Monday	_	PROPN	NNP	_	8	nsubj	_	_
+7	is	_	AUX	VBZ	_	8	aux	_	_
+8	coming	_	VERB	VBG	_	3	ccomp	_	_
+9	?	_	PUNCT	.	_	3	punct	_	_
+
+1	Joseph	_	PROPN	NNP	_	2	nn	_	_
+2	Granville	_	PROPN	NNP	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+
+1	If	_	SCONJ	IN	_	5	mark	_	_
+2	you	_	PRON	PRP	_	5	nsubj	_	_
+3	're	_	VERB	VBP	_	5	cop	_	_
+4	a	_	DET	DT	_	5	det	_	_
+5	technician	_	NOUN	NN	_	8	advcl	_	_
+6	,	_	PUNCT	,	_	8	punct	_	_
+7	you	_	PRON	PRP	_	8	nsubj	_	_
+8	obey	_	VERB	VBP	_	0	root	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	signals	_	NOUN	NNS	_	8	dobj	_	_
+11	.	_	PUNCT	.	_	8	punct	_	_
+
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	see	_	VERB	VBP	_	0	root	_	_
+3	no	_	DET	DT	_	5	neg	_	_
+4	major	_	ADJ	JJ	_	5	amod	_	_
+5	support	_	NOUN	NN	_	2	dobj	_	_
+6	until	_	ADP	IN	_	5	prep	_	_
+7	2200	_	NUM	CD	_	6	pobj	_	_
+8	.	_	PUNCT	.	_	2	punct	_	_
+
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	see	_	VERB	VBP	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	possibility	_	NOUN	NN	_	2	dobj	_	_
+5	of	_	SCONJ	IN	_	4	prep	_	_
+6	going	_	VERB	VBG	_	5	pcomp	_	_
+7	to	_	ADP	TO	_	6	prep	_	_
+8	2200	_	NUM	CD	_	7	pobj	_	_
+9	this	_	DET	DT	_	10	det	_	_
+10	month	_	NOUN	NN	_	6	tmod	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+12	''	_	PUNCT	''	_	2	punct	_	_
+
+1	Elaine	_	PROPN	NNP	_	2	nn	_	_
+2	Garzarelli	_	PROPN	NNP	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+
+1	Friday	_	PROPN	NNP	_	4	poss	_	_
+2	's	_	PART	POS	_	1	possessive	_	_
+3	big	_	ADJ	JJ	_	4	amod	_	_
+4	drop	_	NOUN	NN	_	13	nsubj	_	_
+5	,	_	PUNCT	,	_	7	punct	_	_
+6	she	_	PRON	PRP	_	7	nsubj	_	_
+7	says	_	VERB	VBZ	_	13	parataxis	_	_
+8	,	_	PUNCT	,	_	7	punct	_	_
+9	``	_	PUNCT	``	_	13	punct	_	_
+10	was	_	VERB	VBD	_	13	cop	_	_
+11	not	_	PART	RB	_	13	neg	_	_
+12	a	_	DET	DT	_	13	det	_	_
+13	crash	_	NOUN	NN	_	0	root	_	_
+14	.	_	PUNCT	.	_	13	punct	_	_
+
+1	So	_	ADP	IN	_	3	dep	_	_
+2	she	_	PRON	PRP	_	3	nsubj	_	_
+3	thinks	_	VERB	VBZ	_	0	root	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	damage	_	NOUN	NN	_	8	nsubj	_	_
+6	will	_	AUX	MD	_	8	aux	_	_
+7	be	_	VERB	VB	_	8	cop	_	_
+8	short-lived	_	ADJ	JJ	_	3	ccomp	_	_
+9	and	_	CONJ	CC	_	8	cc	_	_
+10	contained	_	ADJ	JJ	_	8	conj	_	_
+11	.	_	PUNCT	.	_	3	punct	_	_
+
+1	My	_	PRON	PRP$	_	2	poss	_	_
+2	advice	_	NOUN	NN	_	3	nsubj	_	_
+3	is	_	VERB	VBZ	_	0	root	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	buy	_	VERB	VB	_	3	xcomp	_	_
+6	.	_	PUNCT	.	_	3	punct	_	_
+7	''	_	PUNCT	''	_	3	punct	_	_
+
+1	Ned	_	PROPN	NNP	_	2	nn	_	_
+2	Davis	_	PROPN	NNP	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+
+1	``	_	PUNCT	``	_	12	punct	_	_
+2	There	_	PRON	EX	_	3	expl	_	_
+3	was	_	VERB	VBD	_	12	ccomp	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	unique	_	ADJ	JJ	_	6	amod	_	_
+6	combination	_	NOUN	NN	_	3	nsubj	_	_
+7	in	_	ADP	IN	_	3	prep	_	_
+8	1987	_	NUM	CD	_	7	pobj	_	_
+9	,	_	PUNCT	,	_	12	punct	_	_
+10	''	_	PUNCT	''	_	12	punct	_	_
+11	he	_	PRON	PRP	_	12	nsubj	_	_
+12	says	_	VERB	VBZ	_	0	root	_	_
+13	.	_	PUNCT	.	_	12	punct	_	_
+
+1	``	_	PUNCT	``	_	4	punct	_	_
+2	Margin	_	NOUN	NN	_	3	nn	_	_
+3	debt	_	NOUN	NN	_	4	nsubj	_	_
+4	was	_	VERB	VBD	_	0	root	_	_
+5	at	_	ADP	IN	_	4	prep	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	record	_	ADJ	JJ	_	8	amod	_	_
+8	high	_	NOUN	NN	_	5	pobj	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+
+1	There	_	PRON	EX	_	2	expl	_	_
+2	was	_	VERB	VBD	_	0	root	_	_
+3	tremendous	_	ADJ	JJ	_	5	amod	_	_
+4	public	_	ADJ	JJ	_	5	amod	_	_
+5	enthusiasm	_	NOUN	NN	_	2	nsubj	_	_
+6	for	_	ADP	IN	_	5	prep	_	_
+7	stock	_	NOUN	NN	_	9	nn	_	_
+8	mutual	_	ADJ	JJ	_	9	amod	_	_
+9	funds	_	NOUN	NNS	_	6	pobj	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+
+1	A	_	DET	DT	_	3	quantmod	_	_
+2	hundred	_	NUM	CD	_	3	number	_	_
+3	billion	_	NUM	CD	_	4	num	_	_
+4	dollars	_	NOUN	NNS	_	8	nsubj	_	_
+5	in	_	ADP	IN	_	4	prep	_	_
+6	stock	_	NOUN	NN	_	5	pobj	_	_
+7	was	_	VERB	VBD	_	8	cop	_	_
+8	subject	_	ADJ	JJ	_	0	root	_	_
+9	''	_	PUNCT	''	_	8	punct	_	_
+10	to	_	ADP	TO	_	8	prep	_	_
+11	it	_	PRON	PRP	_	10	pobj	_	_
+12	.	_	PUNCT	.	_	8	punct	_	_
+
+1	In	_	ADP	IN	_	6	prep	_	_
+2	1987	_	NUM	CD	_	1	pobj	_	_
+3	,	_	PUNCT	,	_	6	punct	_	_
+4	such	_	ADJ	JJ	_	5	amod	_	_
+5	selling	_	NOUN	NN	_	6	nsubj	_	_
+6	contributed	_	VERB	VBD	_	0	root	_	_
+7	to	_	ADP	TO	_	6	prep	_	_
+8	a	_	DET	DT	_	10	det	_	_
+9	snowball	_	NOUN	NN	_	10	nn	_	_
+10	effect	_	NOUN	NN	_	7	pobj	_	_
+11	.	_	PUNCT	.	_	6	punct	_	_
+
+1	Sort	_	NOUN	NN	_	0	root	_	_
+2	of	_	ADP	IN	_	1	prep	_	_
+3	a	_	DET	DT	_	6	det	_	_
+4	two-step	_	ADJ	JJ	_	6	amod	_	_
+5	bear	_	NOUN	NN	_	6	nn	_	_
+6	market	_	NOUN	NN	_	2	pobj	_	_
+7	.	_	PUNCT	.	_	1	punct	_	_
+8	''	_	PUNCT	''	_	1	punct	_	_
+
+1	``	_	PUNCT	``	_	12	punct	_	_
+2	That	_	PRON	DT	_	8	nsubj	_	_
+3	would	_	AUX	MD	_	8	aux	_	_
+4	be	_	VERB	VB	_	8	cop	_	_
+5	a	_	DET	DT	_	8	det	_	_
+6	normal	_	ADJ	JJ	_	8	amod	_	_
+7	bear	_	NOUN	NN	_	8	nn	_	_
+8	market	_	NOUN	NN	_	12	ccomp	_	_
+9	,	_	PUNCT	,	_	12	punct	_	_
+10	''	_	PUNCT	''	_	12	punct	_	_
+11	he	_	PRON	PRP	_	12	nsubj	_	_
+12	says	_	VERB	VBZ	_	0	root	_	_
+13	.	_	PUNCT	.	_	12	punct	_	_
+
+1	``	_	PUNCT	``	_	3	punct	_	_
+2	I	_	PRON	PRP	_	3	nsubj	_	_
+3	guess	_	VERB	VBP	_	0	root	_	_
+4	that	_	ADP	IN	_	7	nsubj	_	_
+5	's	_	PART	POS	_	7	dep	_	_
+6	my	_	PRON	PRP$	_	7	poss	_	_
+7	forecast	_	NOUN	NN	_	3	ccomp	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+9	''	_	PUNCT	''	_	3	punct	_	_
+
+1	Leon	_	PROPN	NNP	_	3	nn	_	_
+2	G.	_	PROPN	NNP	_	3	nn	_	_
+3	Cooperman	_	PROPN	NNP	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Unlike	_	ADP	IN	_	8	prep	_	_
+2	1987	_	NUM	CD	_	1	pobj	_	_
+3	,	_	PUNCT	,	_	8	punct	_	_
+4	interest	_	NOUN	NN	_	5	nn	_	_
+5	rates	_	NOUN	NNS	_	8	nsubj	_	_
+6	have	_	AUX	VBP	_	8	aux	_	_
+7	been	_	AUX	VBN	_	8	aux	_	_
+8	falling	_	VERB	VBG	_	0	root	_	_
+9	this	_	DET	DT	_	10	det	_	_
+10	year	_	NOUN	NN	_	8	tmod	_	_
+11	.	_	PUNCT	.	_	8	punct	_	_
+
+1	Unlike	_	ADP	IN	_	8	prep	_	_
+2	1987	_	NUM	CD	_	1	pobj	_	_
+3	,	_	PUNCT	,	_	8	punct	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	dollar	_	NOUN	NN	_	8	nsubj	_	_
+6	has	_	AUX	VBZ	_	8	aux	_	_
+7	been	_	VERB	VBN	_	8	cop	_	_
+8	strong	_	ADJ	JJ	_	0	root	_	_
+9	.	_	PUNCT	.	_	8	punct	_	_
+
+1	``	_	PUNCT	``	_	8	punct	_	_
+2	So	_	ADP	IN	_	8	dep	_	_
+3	it	_	PRON	PRP	_	8	nsubj	_	_
+4	's	_	VERB	VBZ	_	8	cop	_	_
+5	a	_	DET	DT	_	8	det	_	_
+6	very	_	ADV	RB	_	7	advmod	_	_
+7	mixed	_	ADJ	JJ	_	8	amod	_	_
+8	bag	_	NOUN	NN	_	0	root	_	_
+9	.	_	PUNCT	.	_	8	punct	_	_
+10	''	_	PUNCT	''	_	8	punct	_	_
+
+1	John	_	PROPN	NNP	_	3	nn	_	_
+2	Kenneth	_	PROPN	NNP	_	3	nn	_	_
+3	Galbraith	_	PROPN	NNP	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Nevertheless	_	ADV	RB	_	4	advmod	_	_
+2	,	_	PUNCT	,	_	4	punct	_	_
+3	he	_	PRON	PRP	_	4	nsubj	_	_
+4	says	_	VERB	VBZ	_	0	root	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	depression	_	NOUN	NN	_	9	nsubj	_	_
+7	does	_	AUX	VBZ	_	9	aux	_	_
+8	n't	_	PART	RB	_	9	neg	_	_
+9	appear	_	VERB	VB	_	4	ccomp	_	_
+10	likely	_	ADJ	JJ	_	9	acomp	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Mario	_	PROPN	NNP	_	2	nn	_	_
+2	Gabelli	_	PROPN	NNP	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+
+1	Jim	_	PROPN	NNP	_	2	nn	_	_
+2	Rogers	_	PROPN	NNP	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+
+1	``	_	PUNCT	``	_	11	punct	_	_
+2	Friday	_	PROPN	NNP	_	6	tmod	_	_
+3	you	_	PRON	PRP	_	6	nsubj	_	_
+4	could	_	AUX	MD	_	6	aux	_	_
+5	n't	_	PART	RB	_	6	neg	_	_
+6	sell	_	VERB	VB	_	11	ccomp	_	_
+7	dollars	_	NOUN	NNS	_	6	dobj	_	_
+8	,	_	PUNCT	,	_	11	punct	_	_
+9	''	_	PUNCT	''	_	11	punct	_	_
+10	he	_	PRON	PRP	_	11	nsubj	_	_
+11	says	_	VERB	VBZ	_	0	root	_	_
+12	.	_	PUNCT	.	_	11	punct	_	_
+
+1	Frank	_	PROPN	NNP	_	2	nn	_	_
+2	Curzio	_	PROPN	NNP	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+
+1	Many	_	ADJ	JJ	_	2	amod	_	_
+2	people	_	NOUN	NNS	_	4	nsubj	_	_
+3	now	_	ADV	RB	_	4	advmod	_	_
+4	claim	_	VERB	VBP	_	0	root	_	_
+5	to	_	PART	TO	_	7	aux	_	_
+6	have	_	AUX	VB	_	7	aux	_	_
+7	predicted	_	VERB	VBN	_	4	xcomp	_	_
+8	the	_	DET	DT	_	10	det	_	_
+9	1987	_	NUM	CD	_	10	num	_	_
+10	crash	_	NOUN	NN	_	7	dobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	If	_	SCONJ	IN	_	2	mark	_	_
+2	not	_	PART	RB	_	7	advcl	_	_
+3	,	_	PUNCT	,	_	7	punct	_	_
+4	``	_	PUNCT	``	_	7	punct	_	_
+5	We	_	PRON	PRP	_	7	nsubj	_	_
+6	could	_	AUX	MD	_	7	aux	_	_
+7	go	_	VERB	VB	_	0	root	_	_
+8	to	_	ADP	TO	_	7	prep	_	_
+9	2200	_	NUM	CD	_	8	pobj	_	_
+10	very	_	ADV	RB	_	11	advmod	_	_
+11	soon	_	ADV	RB	_	7	advmod	_	_
+12	.	_	PUNCT	.	_	7	punct	_	_
+13	''	_	PUNCT	''	_	7	punct	_	_
+
+1	Frank	_	PROPN	NNP	_	3	nn	_	_
+2	W.	_	PROPN	NNP	_	3	nn	_	_
+3	Terrizzi	_	PROPN	NNP	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+
+1	``	_	PUNCT	``	_	13	punct	_	_
+2	T-bills	_	NOUN	NNS	_	7	nsubj	_	_
+3	probably	_	ADV	RB	_	7	advmod	_	_
+4	are	_	VERB	VBP	_	7	cop	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	right	_	ADJ	JJ	_	7	amod	_	_
+7	place	_	NOUN	NN	_	13	ccomp	_	_
+8	to	_	PART	TO	_	9	aux	_	_
+9	be	_	VERB	VB	_	7	vmod	_	_
+10	,	_	PUNCT	,	_	13	punct	_	_
+11	''	_	PUNCT	''	_	13	punct	_	_
+12	he	_	PRON	PRP	_	13	nsubj	_	_
+13	says	_	VERB	VBZ	_	0	root	_	_
+14	.	_	PUNCT	.	_	13	punct	_	_
+
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	thought	_	VERB	VBD	_	0	root	_	_
+3	your	_	PRON	PRP$	_	4	poss	_	_
+4	editorial	_	NOUN	NN	_	7	nsubj	_	_
+5	was	_	VERB	VBD	_	7	cop	_	_
+6	factually	_	ADV	RB	_	7	advmod	_	_
+7	accurate	_	ADJ	JJ	_	2	ccomp	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	deliberately	_	ADV	RB	_	10	advmod	_	_
+10	elucidative	_	ADJ	JJ	_	7	conj	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+
+1	Yes	_	INTJ	UH	_	4	discourse	_	_
+2	,	_	PUNCT	,	_	4	punct	_	_
+3	he	_	PRON	PRP	_	4	nsubj	_	_
+4	did	_	VERB	VBD	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Absolute	_	ADJ	JJ	_	2	amod	_	_
+2	rubbish	_	NOUN	NN	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+
+1	Apparently	_	ADV	RB	_	5	advmod	_	_
+2	,	_	PUNCT	,	_	5	punct	_	_
+3	their	_	PRON	PRP$	_	4	poss	_	_
+4	verdict	_	NOUN	NN	_	5	nsubj	_	_
+5	is	_	VERB	VBZ	_	0	root	_	_
+6	in	_	ADV	RB	_	5	advmod	_	_
+7	.	_	PUNCT	.	_	5	punct	_	_
+
+1	Right	_	ADV	RB	_	2	advmod	_	_
+2	now	_	ADV	RB	_	5	advmod	_	_
+3	they	_	PRON	PRP	_	5	nsubj	_	_
+4	're	_	AUX	VBP	_	5	aux	_	_
+5	pursuing	_	VERB	VBG	_	0	root	_	_
+6	evidence	_	NOUN	NN	_	5	dobj	_	_
+7	.	_	PUNCT	.	_	5	punct	_	_
+
+1	Ah	_	INTJ	UH	_	5	discourse	_	_
+2	,	_	PUNCT	,	_	5	punct	_	_
+3	yes	_	INTJ	UH	_	5	discourse	_	_
+4	,	_	PUNCT	,	_	5	punct	_	_
+5	something	_	PRON	NN	_	0	root	_	_
+6	called	_	VERB	VBN	_	5	vmod	_	_
+7	a	_	DET	DT	_	9	det	_	_
+8	Star	_	PROPN	NNP	_	9	nn	_	_
+9	Chamber	_	PROPN	NNP	_	6	dep	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+
+1	No	_	DET	DT	_	2	neg	_	_
+2	doubt	_	NOUN	NN	_	0	root	_	_
+3	that	_	PRON	WDT	_	6	nsubj	_	_
+4	's	_	VERB	VBZ	_	6	cop	_	_
+5	partially	_	ADV	RB	_	6	advmod	_	_
+6	true	_	ADJ	JJ	_	2	ccomp	_	_
+7	.	_	PUNCT	.	_	2	punct	_	_
+
+1	No	_	ADV	RB	_	10	discourse	_	_
+2	,	_	PUNCT	,	_	10	punct	_	_
+3	Mr.	_	PROPN	NNP	_	4	nn	_	_
+4	Lantos	_	PROPN	NNP	_	6	poss	_	_
+5	's	_	PART	POS	_	4	possessive	_	_
+6	complaints	_	NOUN	NNS	_	10	nsubj	_	_
+7	simply	_	ADV	RB	_	10	advmod	_	_
+8	wo	_	AUX	MD	_	10	aux	_	_
+9	n't	_	PART	RB	_	10	neg	_	_
+10	wash	_	VERB	VB	_	0	root	_	_
+11	.	_	PUNCT	.	_	10	punct	_	_
+
+1	it	_	PRON	PRP	_	2	nsubj	_	_
+2	defended	_	VERB	VBD	_	0	root	_	_
+3	appropriate	_	ADJ	JJ	_	5	amod	_	_
+4	constitutional	_	ADJ	JJ	_	5	amod	_	_
+5	safeguards	_	NOUN	NNS	_	2	dobj	_	_
+6	and	_	CONJ	CC	_	5	cc	_	_
+7	practical	_	ADJ	JJ	_	9	amod	_	_
+8	common	_	ADJ	JJ	_	9	amod	_	_
+9	sense	_	NOUN	NN	_	5	conj	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	system	_	NOUN	NN	_	5	nsubj	_	_
+3	is	_	VERB	VBZ	_	5	cop	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	problem	_	NOUN	NN	_	0	root	_	_
+6	,	_	PUNCT	,	_	5	punct	_	_
+7	not	_	PART	RB	_	5	dep	_	_
+8	an	_	DET	DT	_	10	det	_	_
+9	individual	_	ADJ	JJ	_	10	amod	_	_
+10	member	_	NOUN	NN	_	7	dep	_	_
+11	.	_	PUNCT	.	_	5	punct	_	_
+
+1	Individuals	_	NOUN	NNS	_	4	nsubj	_	_
+2	can	_	AUX	MD	_	4	aux	_	_
+3	always	_	ADV	RB	_	4	advmod	_	_
+4	have	_	VERB	VB	_	0	root	_	_
+5	their	_	PRON	PRP$	_	6	poss	_	_
+6	hands	_	NOUN	NNS	_	7	nsubj	_	_
+7	slapped	_	VERB	VBN	_	4	ccomp	_	_
+8	.	_	PUNCT	.	_	4	punct	_	_
+
+1	I	_	PRON	PRP	_	7	nsubj	_	_
+2	do	_	AUX	VBP	_	7	aux	_	_
+3	not	_	PART	RB	_	7	neg	_	_
+4	by	_	ADP	IN	_	7	prep	_	_
+5	any	_	DET	DT	_	6	det	_	_
+6	means	_	NOUN	NNS	_	4	pobj	_	_
+7	defend	_	VERB	VB	_	0	root	_	_
+8	HUD	_	PROPN	NNP	_	9	nn	_	_
+9	management	_	NOUN	NN	_	7	dobj	_	_
+10	.	_	PUNCT	.	_	7	punct	_	_
+
+1	Raymond	_	PROPN	NNP	_	2	nn	_	_
+2	Weber	_	PROPN	NNP	_	0	root	_	_
+
+1	Parsippany	_	PROPN	NNP	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	N.J	_	PROPN	NNP	_	1	appos	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Baxter	_	PROPN	NNP	_	0	root	_	_
+2	v.	_	ADP	IN	_	1	prep	_	_
+3	Palmingiano	_	PROPN	NNP	_	2	pobj	_	_
+4	,	_	PUNCT	,	_	1	punct	_	_
+5	425	_	NUM	CD	_	6	num	_	_
+6	U.S.	_	PROPN	NNP	_	1	appos	_	_
+7	308	_	NUM	CD	_	6	num	_	_
+8	-LRB-	_	PUNCT	-LRB-	_	9	punct	_	_
+9	1976	_	NUM	CD	_	1	dep	_	_
+10	-RRB-	_	PUNCT	-RRB-	_	9	punct	_	_
+11	.	_	PUNCT	.	_	1	punct	_	_
+
+1	Clark	_	PROPN	NNP	_	4	nn	_	_
+2	S.	_	PROPN	NNP	_	4	nn	_	_
+3	Spalsbury	_	PROPN	NNP	_	4	nn	_	_
+4	Jr	_	PROPN	NNP	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Estes	_	PROPN	NNP	_	2	nn	_	_
+2	Park	_	PROPN	NNP	_	0	root	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	Colo	_	PROPN	NNP	_	2	appos	_	_
+5	.	_	PUNCT	.	_	2	punct	_	_
+
+1	Just	_	ADV	RB	_	3	advmod	_	_
+2	a	_	DET	DT	_	3	det	_	_
+3	coincidence	_	NOUN	NN	_	0	root	_	_
+4	?	_	PUNCT	.	_	3	punct	_	_
+
+1	It	_	PRON	PRP	_	4	nsubj	_	_
+2	was	_	VERB	VBD	_	4	cop	_	_
+3	n't	_	PART	RB	_	4	neg	_	_
+4	intentional	_	ADJ	JJ	_	0	root	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	we	_	PRON	PRP	_	9	nsubj	_	_
+7	were	_	VERB	VBD	_	9	cop	_	_
+8	all	_	ADV	RB	_	9	advmod	_	_
+9	busy	_	ADJ	JJ	_	4	parataxis	_	_
+10	.	_	PUNCT	.	_	4	punct	_	_
+11	''	_	PUNCT	''	_	4	punct	_	_
+
+1	When	_	ADV	WRB	_	5	advmod	_	_
+2	selling	_	NOUN	NN	_	5	nsubj	_	_
+3	is	_	VERB	VBZ	_	5	cop	_	_
+4	so	_	ADV	RB	_	5	advmod	_	_
+5	frenzied	_	ADJ	JJ	_	8	advcl	_	_
+6	,	_	PUNCT	,	_	8	punct	_	_
+7	prices	_	NOUN	NNS	_	8	nsubj	_	_
+8	fall	_	VERB	VBP	_	0	root	_	_
+9	steeply	_	ADV	RB	_	8	advmod	_	_
+10	and	_	CONJ	CC	_	9	cc	_	_
+11	fast	_	ADV	RB	_	9	conj	_	_
+12	.	_	PUNCT	.	_	8	punct	_	_
+
+1	On	_	ADP	IN	_	8	prep	_	_
+2	Friday	_	PROPN	NNP	_	1	pobj	_	_
+3	,	_	PUNCT	,	_	8	punct	_	_
+4	some	_	DET	DT	_	6	det	_	_
+5	market	_	NOUN	NN	_	6	nn	_	_
+6	makers	_	NOUN	NNS	_	8	nsubj	_	_
+7	were	_	AUX	VBD	_	8	aux	_	_
+8	selling	_	VERB	VBG	_	12	ccomp	_	_
+9	again	_	ADV	RB	_	8	advmod	_	_
+10	,	_	PUNCT	,	_	12	punct	_	_
+11	traders	_	NOUN	NNS	_	12	nsubj	_	_
+12	said	_	VERB	VBD	_	0	root	_	_
+13	.	_	PUNCT	.	_	12	punct	_	_
+
+1	``	_	PUNCT	``	_	12	punct	_	_
+2	Everyone	_	PRON	NN	_	4	nsubj	_	_
+3	was	_	AUX	VBD	_	4	aux	_	_
+4	hitting	_	VERB	VBG	_	12	ccomp	_	_
+5	everyone	_	PRON	NN	_	8	poss	_	_
+6	else	_	ADV	RB	_	5	amod	_	_
+7	's	_	PART	POS	_	5	possessive	_	_
+8	bid	_	NOUN	NN	_	4	dobj	_	_
+9	,	_	PUNCT	,	_	12	punct	_	_
+10	''	_	PUNCT	''	_	12	punct	_	_
+11	he	_	PRON	PRP	_	12	nsubj	_	_
+12	said	_	VERB	VBD	_	0	root	_	_
+13	.	_	PUNCT	.	_	12	punct	_	_
+
+1	``	_	PUNCT	``	_	11	punct	_	_
+2	The	_	DET	DT	_	3	det	_	_
+3	pace	_	NOUN	NN	_	7	nsubj	_	_
+4	of	_	ADP	IN	_	3	prep	_	_
+5	trading	_	NOUN	NN	_	4	pobj	_	_
+6	was	_	VERB	VBD	_	7	cop	_	_
+7	orderly	_	ADJ	JJ	_	11	ccomp	_	_
+8	,	_	PUNCT	,	_	11	punct	_	_
+9	''	_	PUNCT	''	_	11	punct	_	_
+10	he	_	PRON	PRP	_	11	nsubj	_	_
+11	said	_	VERB	VBD	_	0	root	_	_
+12	.	_	PUNCT	.	_	11	punct	_	_
+
+1	But	_	CONJ	CC	_	4	cc	_	_
+2	they	_	PRON	PRP	_	4	nsubj	_	_
+3	are	_	VERB	VBP	_	4	cop	_	_
+4	worried	_	ADJ	JJ	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Nasdaq	_	PROPN	NNP	_	4	poss	_	_
+2	's	_	PART	POS	_	1	possessive	_	_
+3	biggest	_	ADJ	JJS	_	4	amod	_	_
+4	stocks	_	NOUN	NNS	_	6	nsubjpass	_	_
+5	were	_	AUX	VBD	_	6	auxpass	_	_
+6	hammered	_	VERB	VBN	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+
+1	The	_	DET	DT	_	3	det	_	_
+2	OTC	_	PROPN	NNP	_	3	nn	_	_
+3	market	_	NOUN	NN	_	4	nsubj	_	_
+4	has	_	VERB	VBZ	_	0	root	_	_
+5	only	_	ADV	RB	_	7	advmod	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	handful	_	NOUN	NN	_	4	dobj	_	_
+8	of	_	ADP	IN	_	7	prep	_	_
+9	takeover-related	_	ADJ	JJ	_	10	amod	_	_
+10	stocks	_	NOUN	NNS	_	8	pobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	But	_	CONJ	CC	_	3	cc	_	_
+2	they	_	PRON	PRP	_	3	nsubj	_	_
+3	fell	_	VERB	VBD	_	0	root	_	_
+4	sharply	_	ADV	RB	_	3	advmod	_	_
+5	.	_	PUNCT	.	_	3	punct	_	_
+
+1	McCaw	_	PROPN	NNP	_	2	nsubj	_	_
+2	lost	_	VERB	VBD	_	0	root	_	_
+3	8	_	NUM	CD	_	4	num	_	_
+4	%	_	SYM	NN	_	2	dobj	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	or	_	CONJ	CC	_	4	cc	_	_
+7	3	_	NUM	CD	_	8	number	_	_
+8	1/2	_	NUM	CD	_	4	conj	_	_
+9	,	_	PUNCT	,	_	4	punct	_	_
+10	to	_	ADP	TO	_	2	prep	_	_
+11	40	_	NUM	CD	_	10	pobj	_	_
+12	.	_	PUNCT	.	_	2	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	turnover	_	NOUN	NN	_	8	nsubj	_	_
+3	in	_	ADP	IN	_	2	prep	_	_
+4	both	_	DET	DT	_	5	det	_	_
+5	issues	_	NOUN	NNS	_	3	pobj	_	_
+6	was	_	VERB	VBD	_	8	cop	_	_
+7	roughly	_	ADV	RB	_	8	advmod	_	_
+8	normal	_	ADJ	JJ	_	0	root	_	_
+9	.	_	PUNCT	.	_	8	punct	_	_
+
+1	Commercial	_	PROPN	NNP	_	2	nn	_	_
+2	Intertech	_	PROPN	NNP	_	3	nsubj	_	_
+3	plummeted	_	VERB	VBD	_	0	root	_	_
+4	6	_	NUM	CD	_	3	dobj	_	_
+5	to	_	ADP	TO	_	3	prep	_	_
+6	26	_	NUM	CD	_	5	pobj	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Friday	_	PROPN	NNP	_	3	nn	_	_
+2	,	_	PUNCT	,	_	3	punct	_	_
+3	October	_	PROPN	NNP	_	0	root	_	_
+4	13	_	NUM	CD	_	3	num	_	_
+5	,	_	PUNCT	,	_	3	punct	_	_
+6	1989	_	NUM	CD	_	3	num	_	_
+
+1	PRIME	_	ADJ	JJ	_	2	amod	_	_
+2	RATE	_	NOUN	NN	_	0	root	_	_
+3	:	_	PUNCT	:	_	2	punct	_	_
+
+1	10	_	NUM	CD	_	2	number	_	_
+2	1/2	_	NUM	CD	_	3	num	_	_
+3	%	_	SYM	NN	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+
+1	FEDERAL	_	ADJ	JJ	_	2	amod	_	_
+2	FUNDS	_	NOUN	NNS	_	0	root	_	_
+3	:	_	PUNCT	:	_	2	punct	_	_
+
+1	Source	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	1	punct	_	_
+3	Fulton	_	PROPN	NNP	_	9	nn	_	_
+4	Prebon	_	PROPN	NNP	_	9	nn	_	_
+5	-LRB-	_	PUNCT	-LRB-	_	6	punct	_	_
+6	U.S.A	_	PROPN	NNP	_	9	appos	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+8	-RRB-	_	PUNCT	-RRB-	_	6	punct	_	_
+9	Inc	_	PROPN	NNP	_	1	dep	_	_
+10	.	_	PUNCT	.	_	1	punct	_	_
+
+1	DISCOUNT	_	NOUN	NN	_	2	nn	_	_
+2	RATE	_	NOUN	NN	_	0	root	_	_
+3	:	_	PUNCT	:	_	2	punct	_	_
+
+1	7	_	NUM	CD	_	2	num	_	_
+2	%	_	SYM	NN	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+
+1	CALL	_	NOUN	NN	_	2	nn	_	_
+2	MONEY	_	NOUN	NN	_	0	root	_	_
+3	:	_	PUNCT	:	_	2	punct	_	_
+
+1	9	_	NUM	CD	_	6	number	_	_
+2	3/4	_	NUM	CD	_	6	number	_	_
+3	%	_	SYM	NN	_	6	dep	_	_
+4	to	_	ADP	TO	_	6	dep	_	_
+5	10	_	NUM	CD	_	6	number	_	_
+6	%	_	SYM	NN	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	charge	_	NOUN	NN	_	0	root	_	_
+3	on	_	ADP	IN	_	2	prep	_	_
+4	loans	_	NOUN	NNS	_	3	pobj	_	_
+5	to	_	ADP	TO	_	4	prep	_	_
+6	brokers	_	NOUN	NNS	_	5	pobj	_	_
+7	on	_	ADP	IN	_	2	prep	_	_
+8	stock	_	NOUN	NN	_	10	nn	_	_
+9	exchange	_	NOUN	NN	_	10	nn	_	_
+10	collateral	_	NOUN	NN	_	7	pobj	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+
+1	COMMERCIAL	_	ADJ	JJ	_	2	amod	_	_
+2	PAPER	_	NOUN	NN	_	0	root	_	_
+3	placed	_	VERB	VBN	_	2	vmod	_	_
+4	directly	_	ADV	RB	_	3	advmod	_	_
+5	by	_	ADP	IN	_	3	prep	_	_
+6	General	_	PROPN	NNP	_	9	nn	_	_
+7	Motors	_	PROPN	NNP	_	9	nn	_	_
+8	Acceptance	_	PROPN	NNP	_	9	nn	_	_
+9	Corp.	_	PROPN	NNP	_	5	pobj	_	_
+10	:	_	PUNCT	:	_	2	punct	_	_
+
+1	COMMERCIAL	_	ADJ	JJ	_	2	amod	_	_
+2	PAPER	_	NOUN	NN	_	0	root	_	_
+3	:	_	PUNCT	:	_	2	punct	_	_
+
+1	CERTIFICATES	_	NOUN	NNS	_	0	root	_	_
+2	OF	_	ADP	IN	_	1	prep	_	_
+3	DEPOSIT	_	NOUN	NN	_	2	pobj	_	_
+4	:	_	PUNCT	:	_	1	punct	_	_
+
+1	The	_	DET	DT	_	3	det	_	_
+2	minimum	_	ADJ	JJ	_	3	amod	_	_
+3	unit	_	NOUN	NN	_	5	nsubj	_	_
+4	is	_	VERB	VBZ	_	5	cop	_	_
+5	$	_	SYM	$	_	0	root	_	_
+6	100,000	_	NUM	CD	_	5	num	_	_
+7	.	_	PUNCT	.	_	5	punct	_	_
+
+1	Typical	_	ADJ	JJ	_	2	amod	_	_
+2	rates	_	NOUN	NNS	_	0	root	_	_
+3	in	_	ADP	IN	_	2	prep	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	secondary	_	ADJ	JJ	_	6	amod	_	_
+6	market	_	NOUN	NN	_	3	pobj	_	_
+7	:	_	PUNCT	:	_	2	punct	_	_
+
+1	BANKERS	_	NOUN	NNS	_	2	nn	_	_
+2	ACCEPTANCES	_	NOUN	NNS	_	0	root	_	_
+3	:	_	PUNCT	:	_	2	punct	_	_
+
+1	Negotiable	_	ADJ	JJ	_	6	amod	_	_
+2	,	_	PUNCT	,	_	6	punct	_	_
+3	bank-backed	_	ADJ	JJ	_	6	amod	_	_
+4	business	_	NOUN	NN	_	6	nn	_	_
+5	credit	_	NOUN	NN	_	6	nn	_	_
+6	instruments	_	NOUN	NNS	_	0	root	_	_
+7	typically	_	ADV	RB	_	8	advmod	_	_
+8	financing	_	VERB	VBG	_	6	vmod	_	_
+9	an	_	DET	DT	_	11	det	_	_
+10	import	_	NOUN	NN	_	11	nn	_	_
+11	order	_	NOUN	NN	_	8	dobj	_	_
+12	.	_	PUNCT	.	_	6	punct	_	_
+
+1	LONDON	_	PROPN	NNP	_	3	nn	_	_
+2	LATE	_	ADJ	JJ	_	3	amod	_	_
+3	EURODOLLARS	_	NOUN	NNS	_	0	root	_	_
+4	:	_	PUNCT	:	_	3	punct	_	_
+
+1	LONDON	_	PROPN	NNP	_	4	nn	_	_
+2	INTERBANK	_	ADV	RB	_	4	advmod	_	_
+3	OFFERED	_	VERB	VBN	_	4	amod	_	_
+4	RATES	_	NOUN	NNS	_	0	root	_	_
+5	-LRB-	_	PUNCT	-LRB-	_	6	punct	_	_
+6	LIBOR	_	PROPN	NNP	_	4	appos	_	_
+7	-RRB-	_	PUNCT	-RRB-	_	6	punct	_	_
+8	:	_	PUNCT	:	_	4	punct	_	_
+
+1	FOREIGN	_	ADJ	JJ	_	3	amod	_	_
+2	PRIME	_	ADJ	JJ	_	3	amod	_	_
+3	RATES	_	NOUN	NNS	_	0	root	_	_
+4	:	_	PUNCT	:	_	3	punct	_	_
+
+1	TREASURY	_	NOUN	NN	_	2	nn	_	_
+2	BILLS	_	NOUN	NNS	_	0	root	_	_
+3	:	_	PUNCT	:	_	2	punct	_	_
+
+1	7.63	_	NUM	CD	_	2	num	_	_
+2	%	_	SYM	NN	_	0	root	_	_
+3	13	_	NUM	CD	_	4	num	_	_
+4	weeks	_	NOUN	NNS	_	2	dep	_	_
+5	;	_	PUNCT	:	_	2	punct	_	_
+6	7.60	_	NUM	CD	_	7	num	_	_
+7	%	_	SYM	NN	_	2	dep	_	_
+8	26	_	NUM	CD	_	9	num	_	_
+9	weeks	_	NOUN	NNS	_	7	dep	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+
+1	FEDERAL	_	PROPN	NNP	_	5	nn	_	_
+2	HOME	_	PROPN	NNP	_	5	nn	_	_
+3	LOAN	_	PROPN	NNP	_	5	nn	_	_
+4	MORTGAGE	_	PROPN	NNP	_	5	nn	_	_
+5	CORP	_	PROPN	NNP	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+7	-LRB-	_	PUNCT	-LRB-	_	9	punct	_	_
+8	Freddie	_	PROPN	NNP	_	9	nn	_	_
+9	Mac	_	PROPN	NNP	_	5	appos	_	_
+10	-RRB-	_	PUNCT	-RRB-	_	9	punct	_	_
+11	:	_	PUNCT	:	_	5	punct	_	_
+
+1	Source	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	1	punct	_	_
+3	Telerate	_	PROPN	NNP	_	5	nn	_	_
+4	Systems	_	PROPN	NNP	_	5	nn	_	_
+5	Inc	_	PROPN	NNP	_	1	dep	_	_
+6	.	_	PUNCT	.	_	1	punct	_	_
+
+1	FEDERAL	_	PROPN	NNP	_	4	nn	_	_
+2	NATIONAL	_	PROPN	NNP	_	4	nn	_	_
+3	MORTGAGE	_	PROPN	NNP	_	4	nn	_	_
+4	ASSOCIATION	_	PROPN	NNP	_	0	root	_	_
+5	-LRB-	_	PUNCT	-LRB-	_	7	punct	_	_
+6	Fannie	_	PROPN	NNP	_	7	nn	_	_
+7	Mae	_	PROPN	NNP	_	4	appos	_	_
+8	-RRB-	_	PUNCT	-RRB-	_	7	punct	_	_
+9	:	_	PUNCT	:	_	4	punct	_	_
+
+1	Source	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	1	punct	_	_
+3	Telerate	_	PROPN	NNP	_	5	nn	_	_
+4	Systems	_	PROPN	NNP	_	5	nn	_	_
+5	Inc	_	PROPN	NNP	_	1	dep	_	_
+6	.	_	PUNCT	.	_	1	punct	_	_
+
+1	MERRILL	_	PROPN	NNP	_	5	nn	_	_
+2	LYNCH	_	PROPN	NNP	_	5	nn	_	_
+3	READY	_	PROPN	NNP	_	5	nn	_	_
+4	ASSETS	_	PROPN	NNP	_	5	nn	_	_
+5	TRUST	_	PROPN	NNP	_	0	root	_	_
+6	:	_	PUNCT	:	_	5	punct	_	_
+
+1	8.33	_	NUM	CD	_	2	num	_	_
+2	%	_	SYM	NN	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+
+1	And	_	CONJ	CC	_	3	cc	_	_
+2	they	_	PRON	PRP	_	3	nsubj	_	_
+3	plan	_	VERB	VBP	_	0	root	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	buy	_	VERB	VB	_	3	xcomp	_	_
+6	more	_	ADJ	JJR	_	5	dobj	_	_
+7	today	_	NOUN	NN	_	5	tmod	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+
+1	They	_	PRON	PRP	_	4	nsubj	_	_
+2	could	_	AUX	MD	_	4	aux	_	_
+3	still	_	ADV	RB	_	4	advmod	_	_
+4	panic	_	VERB	VB	_	0	root	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	bail	_	VERB	VB	_	4	conj	_	_
+7	out	_	ADP	RP	_	6	prt	_	_
+8	of	_	ADP	IN	_	6	prep	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	market	_	NOUN	NN	_	8	pobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Then	_	ADV	RB	_	3	advmod	_	_
+2	he	_	PRON	PRP	_	3	nsubj	_	_
+3	jumped	_	VERB	VBD	_	0	root	_	_
+4	into	_	ADP	IN	_	3	prep	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	market	_	NOUN	NN	_	4	pobj	_	_
+7	:	_	PUNCT	:	_	3	punct	_	_
+
+1	``	_	PUNCT	``	_	3	punct	_	_
+2	I	_	PRON	PRP	_	3	nsubj	_	_
+3	spent	_	VERB	VBD	_	0	root	_	_
+4	$	_	SYM	$	_	3	dobj	_	_
+5	30	_	NUM	CD	_	6	number	_	_
+6	million	_	NUM	CD	_	4	num	_	_
+7	in	_	ADP	IN	_	3	prep	_	_
+8	the	_	DET	DT	_	10	det	_	_
+9	last	_	ADJ	JJ	_	10	amod	_	_
+10	half-hour	_	NOUN	NN	_	7	pobj	_	_
+11	.	_	PUNCT	.	_	3	punct	_	_
+12	''	_	PUNCT	''	_	3	punct	_	_
+
+1	Other	_	ADJ	JJ	_	3	amod	_	_
+2	money	_	NOUN	NN	_	3	nn	_	_
+3	managers	_	NOUN	NNS	_	5	nsubj	_	_
+4	also	_	ADV	RB	_	5	advmod	_	_
+5	opened	_	VERB	VBD	_	0	root	_	_
+6	their	_	PRON	PRP$	_	7	poss	_	_
+7	wallets	_	NOUN	NNS	_	5	dobj	_	_
+8	.	_	PUNCT	.	_	5	punct	_	_
+
+1	It	_	PRON	PRP	_	3	nsubj	_	_
+2	can	_	AUX	MD	_	3	aux	_	_
+3	happen	_	VERB	VB	_	0	root	_	_
+4	before	_	SCONJ	IN	_	7	mark	_	_
+5	you	_	PRON	PRP	_	7	nsubj	_	_
+6	can	_	AUX	MD	_	7	aux	_	_
+7	turn	_	VERB	VB	_	3	advcl	_	_
+8	around	_	ADV	RB	_	7	advmod	_	_
+9	.	_	PUNCT	.	_	3	punct	_	_
+10	''	_	PUNCT	''	_	3	punct	_	_
+
+1	All	_	DET	DT	_	2	dep	_	_
+2	that	_	DET	WDT	_	5	nsubj	_	_
+3	now	_	ADV	RB	_	5	advmod	_	_
+4	has	_	AUX	VBZ	_	5	aux	_	_
+5	changed	_	VERB	VBN	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+
+1	There	_	PRON	EX	_	2	expl	_	_
+2	is	_	VERB	VBZ	_	0	root	_	_
+3	n't	_	PART	RB	_	2	neg	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	big	_	ADJ	JJ	_	6	amod	_	_
+6	shot	_	NOUN	NN	_	2	nsubj	_	_
+7	,	_	PUNCT	,	_	6	punct	_	_
+8	an	_	DET	DT	_	9	det	_	_
+9	agenda	_	NOUN	NN	_	6	appos	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+11	''	_	PUNCT	''	_	2	punct	_	_
+
+1	A	_	DET	DT	_	3	det	_	_
+2	few	_	ADJ	JJ	_	3	amod	_	_
+3	hours	_	NOUN	NNS	_	4	npadvmod	_	_
+4	later	_	ADV	RB	_	9	advmod	_	_
+5	,	_	PUNCT	,	_	9	punct	_	_
+6	the	_	DET	DT	_	8	det	_	_
+7	stock	_	NOUN	NN	_	8	nn	_	_
+8	market	_	NOUN	NN	_	9	nsubj	_	_
+9	dropped	_	VERB	VBD	_	0	root	_	_
+10	190	_	NUM	CD	_	11	num	_	_
+11	points	_	NOUN	NNS	_	9	dobj	_	_
+12	.	_	PUNCT	.	_	9	punct	_	_
+
+1	Consider	_	VERB	VB	_	0	root	_	_
+2	this	_	PRON	DT	_	1	dobj	_	_
+3	:	_	PUNCT	:	_	1	punct	_	_
+
+1	``	_	PUNCT	``	_	5	punct	_	_
+2	That	_	PRON	DT	_	5	nsubj	_	_
+3	did	_	AUX	VBD	_	5	aux	_	_
+4	not	_	PART	RB	_	5	neg	_	_
+5	happen	_	VERB	VB	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+
+1	They	_	PRON	PRP	_	2	nsubj	_	_
+2	learned	_	VERB	VBD	_	0	root	_	_
+3	they	_	PRON	PRP	_	5	nsubj	_	_
+4	could	_	AUX	MD	_	5	aux	_	_
+5	survive	_	VERB	VB	_	2	ccomp	_	_
+6	it	_	PRON	PRP	_	5	dobj	_	_
+7	without	_	ADP	IN	_	5	prep	_	_
+8	much	_	ADJ	JJ	_	9	amod	_	_
+9	problem	_	NOUN	NN	_	7	pobj	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+11	''	_	PUNCT	''	_	2	punct	_	_
+
+1	But	_	CONJ	CC	_	5	cc	_	_
+2	some	_	DET	DT	_	3	det	_	_
+3	players	_	NOUN	NNS	_	5	nsubj	_	_
+4	were	_	VERB	VBD	_	5	cop	_	_
+5	quick	_	ADJ	JJ	_	0	root	_	_
+6	to	_	PART	TO	_	7	aux	_	_
+7	seize	_	VERB	VB	_	5	xcomp	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	moment	_	NOUN	NN	_	7	dobj	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+
+1	$	_	SYM	$	_	0	root	_	_
+2	15.2	_	NUM	CD	_	3	number	_	_
+3	billion	_	NUM	CD	_	1	num	_	_
+4	of	_	ADP	IN	_	1	prep	_	_
+5	three-month	_	ADJ	JJ	_	8	amod	_	_
+6	and	_	CONJ	CC	_	5	cc	_	_
+7	six-month	_	ADJ	JJ	_	5	conj	_	_
+8	bills	_	NOUN	NNS	_	4	pobj	_	_
+9	.	_	PUNCT	.	_	1	punct	_	_
+
+1	Two-year	_	ADJ	JJ	_	2	amod	_	_
+2	notes	_	NOUN	NNS	_	0	root	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	refinancing	_	VERB	VBG	_	2	vmod	_	_
+5	about	_	ADV	RB	_	6	quantmod	_	_
+6	$	_	SYM	$	_	4	dobj	_	_
+7	9.6	_	NUM	CD	_	8	number	_	_
+8	billion	_	NUM	CD	_	6	num	_	_
+9	in	_	ADP	IN	_	6	prep	_	_
+10	maturing	_	VERB	VBG	_	11	amod	_	_
+11	debt	_	NOUN	NN	_	9	pobj	_	_
+12	.	_	PUNCT	.	_	2	punct	_	_
+
+1	$	_	SYM	$	_	0	root	_	_
+2	9.75	_	NUM	CD	_	3	number	_	_
+3	billion	_	NUM	CD	_	1	num	_	_
+4	of	_	ADP	IN	_	1	prep	_	_
+5	52-week	_	ADJ	JJ	_	6	amod	_	_
+6	bills	_	NOUN	NNS	_	4	pobj	_	_
+7	.	_	PUNCT	.	_	1	punct	_	_
+
+1	Connecticut	_	PROPN	NNP	_	2	nn	_	_
+2	Light	_	PROPN	NNP	_	0	root	_	_
+3	&	_	CONJ	CC	_	2	cc	_	_
+4	Power	_	PROPN	NNP	_	5	nn	_	_
+5	Co.	_	PROPN	NNP	_	2	conj	_	_
+6	--	_	PUNCT	:	_	5	punct	_	_
+
+1	Three	_	NUM	CD	_	2	number	_	_
+2	million	_	NUM	CD	_	3	num	_	_
+3	shares	_	NOUN	NNS	_	0	root	_	_
+4	of	_	ADP	IN	_	3	prep	_	_
+5	$	_	SYM	$	_	4	pobj	_	_
+6	25	_	NUM	CD	_	5	number	_	_
+7	preferred	_	ADJ	JJ	_	5	amod	_	_
+8	,	_	PUNCT	,	_	3	punct	_	_
+9	via	_	ADP	IN	_	3	prep	_	_
+10	competitive	_	ADJ	JJ	_	11	amod	_	_
+11	bidding	_	NOUN	NN	_	9	pobj	_	_
+12	.	_	PUNCT	.	_	3	punct	_	_
+
+1	B&H	_	PROPN	NNP	_	4	nn	_	_
+2	Crude	_	PROPN	NNP	_	4	nn	_	_
+3	Carriers	_	PROPN	NNP	_	4	nn	_	_
+4	Ltd.	_	PROPN	NNP	_	0	root	_	_
+5	--	_	PUNCT	:	_	4	punct	_	_
+
+1	Four	_	NUM	CD	_	2	number	_	_
+2	million	_	NUM	CD	_	4	num	_	_
+3	common	_	ADJ	JJ	_	4	amod	_	_
+4	shares	_	NOUN	NNS	_	0	root	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	via	_	ADP	IN	_	4	prep	_	_
+7	Salomon	_	PROPN	NNP	_	9	nn	_	_
+8	Brothers	_	PROPN	NNP	_	9	nn	_	_
+9	Inc	_	PROPN	NNP	_	6	pobj	_	_
+10	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Baldwin	_	PROPN	NNP	_	3	nn	_	_
+2	Technology	_	PROPN	NNP	_	3	nn	_	_
+3	Co.	_	PROPN	NNP	_	0	root	_	_
+4	--	_	PUNCT	:	_	3	punct	_	_
+
+1	Blockbuster	_	PROPN	NNP	_	3	nn	_	_
+2	Entertainment	_	PROPN	NNP	_	3	nn	_	_
+3	Corp.	_	PROPN	NNP	_	0	root	_	_
+4	--	_	PUNCT	:	_	3	punct	_	_
+
+1	Chase	_	PROPN	NNP	_	3	nn	_	_
+2	Manhattan	_	PROPN	NNP	_	3	nn	_	_
+3	Corp.	_	PROPN	NNP	_	0	root	_	_
+4	--	_	PUNCT	:	_	3	punct	_	_
+
+1	14	_	NUM	CD	_	2	number	_	_
+2	million	_	NUM	CD	_	4	num	_	_
+3	common	_	ADJ	JJ	_	4	amod	_	_
+4	shares	_	NOUN	NNS	_	0	root	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	via	_	ADP	IN	_	4	prep	_	_
+7	Goldman	_	PROPN	NNP	_	6	pobj	_	_
+8	,	_	PUNCT	,	_	7	punct	_	_
+9	Sachs	_	PROPN	NNP	_	7	conj	_	_
+10	&	_	CONJ	CC	_	7	cc	_	_
+11	Co	_	PROPN	NNP	_	7	conj	_	_
+12	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Comcast	_	PROPN	NNP	_	2	nn	_	_
+2	Corp.	_	PROPN	NNP	_	0	root	_	_
+3	--	_	PUNCT	:	_	2	punct	_	_
+
+1	$	_	SYM	$	_	5	amod	_	_
+2	150	_	NUM	CD	_	3	number	_	_
+3	million	_	NUM	CD	_	1	num	_	_
+4	convertible	_	ADJ	JJ	_	5	amod	_	_
+5	debentures	_	NOUN	NNS	_	0	root	_	_
+6	,	_	PUNCT	,	_	5	punct	_	_
+7	via	_	ADP	IN	_	5	prep	_	_
+8	Merrill	_	PROPN	NNP	_	9	nn	_	_
+9	Lynch	_	PROPN	NNP	_	7	pobj	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+
+1	CSS	_	PROPN	NNP	_	2	nn	_	_
+2	Industries	_	PROPN	NNP	_	0	root	_	_
+3	--	_	PUNCT	:	_	2	punct	_	_
+
+1	1.3	_	NUM	CD	_	2	number	_	_
+2	million	_	NUM	CD	_	4	num	_	_
+3	common	_	ADJ	JJ	_	4	amod	_	_
+4	shares	_	NOUN	NNS	_	0	root	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	via	_	ADP	IN	_	4	prep	_	_
+7	Merrill	_	PROPN	NNP	_	8	nn	_	_
+8	Lynch	_	PROPN	NNP	_	6	pobj	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Eastern	_	PROPN	NNP	_	3	nn	_	_
+2	Utilities	_	PROPN	NNP	_	3	nn	_	_
+3	Associates	_	PROPN	NNP	_	0	root	_	_
+4	--	_	PUNCT	:	_	3	punct	_	_
+
+1	1.5	_	NUM	CD	_	2	number	_	_
+2	million	_	NUM	CD	_	4	num	_	_
+3	common	_	ADJ	JJ	_	4	amod	_	_
+4	shares	_	NOUN	NNS	_	0	root	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	via	_	ADP	IN	_	4	prep	_	_
+7	PaineWebber	_	PROPN	NNP	_	8	nn	_	_
+8	Inc	_	PROPN	NNP	_	6	pobj	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Employee	_	PROPN	NNP	_	4	nn	_	_
+2	Benefit	_	PROPN	NNP	_	4	nn	_	_
+3	Plans	_	PROPN	NNP	_	4	nn	_	_
+4	Inc.	_	PROPN	NNP	_	0	root	_	_
+5	--	_	PUNCT	:	_	4	punct	_	_
+
+1	Two	_	NUM	CD	_	2	number	_	_
+2	million	_	NUM	CD	_	4	num	_	_
+3	common	_	ADJ	JJ	_	4	amod	_	_
+4	shares	_	NOUN	NNS	_	0	root	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	via	_	ADP	IN	_	4	prep	_	_
+7	Dean	_	PROPN	NNP	_	10	nn	_	_
+8	Witter	_	PROPN	NNP	_	10	nn	_	_
+9	Capital	_	PROPN	NNP	_	10	nn	_	_
+10	Markets	_	PROPN	NNP	_	6	pobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Exabyte	_	PROPN	NNP	_	2	nn	_	_
+2	Corp.	_	PROPN	NNP	_	0	root	_	_
+3	--	_	PUNCT	:	_	2	punct	_	_
+
+1	2,850,000	_	NUM	CD	_	3	num	_	_
+2	common	_	ADJ	JJ	_	3	amod	_	_
+3	shares	_	NOUN	NNS	_	0	root	_	_
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	via	_	ADP	IN	_	3	prep	_	_
+6	Goldman	_	PROPN	NNP	_	7	nn	_	_
+7	Sachs	_	PROPN	NNP	_	5	pobj	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Knowledgeware	_	PROPN	NNP	_	2	nn	_	_
+2	Inc.	_	PROPN	NNP	_	0	root	_	_
+3	--	_	PUNCT	:	_	2	punct	_	_
+
+1	2.4	_	NUM	CD	_	2	number	_	_
+2	million	_	NUM	CD	_	4	num	_	_
+3	common	_	ADJ	JJ	_	4	amod	_	_
+4	shares	_	NOUN	NNS	_	0	root	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	via	_	ADP	IN	_	4	prep	_	_
+7	Montgomery	_	PROPN	NNP	_	8	nn	_	_
+8	Securities	_	PROPN	NNP	_	6	pobj	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Oregon	_	PROPN	NNP	_	0	root	_	_
+2	--	_	PUNCT	:	_	1	punct	_	_
+
+1	Washington	_	PROPN	NNP	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	D.C.	_	PROPN	NNP	_	1	appos	_	_
+4	--	_	PUNCT	:	_	1	punct	_	_
+
+1	Virginia	_	PROPN	NNP	_	4	nn	_	_
+2	Public	_	PROPN	NNP	_	4	nn	_	_
+3	School	_	PROPN	NNP	_	4	nn	_	_
+4	Authority	_	PROPN	NNP	_	0	root	_	_
+5	--	_	PUNCT	:	_	4	punct	_	_
+
+1	Austin	_	PROPN	NNP	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	Texas	_	PROPN	NNP	_	1	appos	_	_
+4	--	_	PUNCT	:	_	1	punct	_	_
+
+1	California	_	PROPN	NNP	_	5	nn	_	_
+2	Health	_	PROPN	NNP	_	5	nn	_	_
+3	Facilities	_	PROPN	NNP	_	5	nn	_	_
+4	Financing	_	PROPN	NNP	_	5	nn	_	_
+5	Authority	_	PROPN	NNP	_	0	root	_	_
+6	--	_	PUNCT	:	_	5	punct	_	_
+
+1	Connecticut	_	PROPN	NNP	_	0	root	_	_
+2	--	_	PUNCT	:	_	1	punct	_	_
+
+1	Pennsylvania	_	PROPN	NNP	_	5	nn	_	_
+2	Higher	_	PROPN	NNP	_	5	nn	_	_
+3	Education	_	PROPN	NNP	_	5	nn	_	_
+4	Facilities	_	PROPN	NNP	_	5	nn	_	_
+5	Authority	_	PROPN	NNP	_	0	root	_	_
+6	--	_	PUNCT	:	_	5	punct	_	_
+
+1	Tennessee	_	PROPN	NNP	_	3	nn	_	_
+2	Valley	_	PROPN	NNP	_	3	nn	_	_
+3	Authority	_	PROPN	NNP	_	0	root	_	_
+4	--	_	PUNCT	:	_	3	punct	_	_
+
+1	Three	_	NUM	CD	_	2	number	_	_
+2	billion	_	NUM	CD	_	0	root	_	_
+3	of	_	ADP	IN	_	2	prep	_	_
+4	power	_	NOUN	NN	_	5	nn	_	_
+5	bonds	_	NOUN	NNS	_	3	pobj	_	_
+6	,	_	PUNCT	,	_	2	punct	_	_
+7	via	_	ADP	IN	_	2	prep	_	_
+8	First	_	PROPN	NNP	_	10	nn	_	_
+9	Boston	_	PROPN	NNP	_	10	nn	_	_
+10	Corp	_	PROPN	NNP	_	7	pobj	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+
+1	University	_	PROPN	NNP	_	0	root	_	_
+2	of	_	ADP	IN	_	1	prep	_	_
+3	Medicine	_	PROPN	NNP	_	2	pobj	_	_
+4	And	_	CONJ	CC	_	3	cc	_	_
+5	Dentistry	_	PROPN	NNP	_	3	conj	_	_
+6	of	_	ADP	IN	_	1	prep	_	_
+7	New	_	PROPN	NNP	_	8	nn	_	_
+8	Jersey	_	PROPN	NNP	_	6	pobj	_	_
+9	--	_	PUNCT	:	_	1	punct	_	_
+
+1	West	_	PROPN	NNP	_	3	nn	_	_
+2	Virginia	_	PROPN	NNP	_	3	nn	_	_
+3	Parkways	_	PROPN	NNP	_	0	root	_	_
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	Economic	_	PROPN	NNP	_	6	nn	_	_
+6	Development	_	PROPN	NNP	_	3	appos	_	_
+7	And	_	CONJ	CC	_	6	cc	_	_
+8	Tourism	_	PROPN	NNP	_	9	nn	_	_
+9	Authority	_	PROPN	NNP	_	6	conj	_	_
+10	--	_	PUNCT	:	_	3	punct	_	_
+
+1	San	_	PROPN	NNP	_	2	nn	_	_
+2	Antonio	_	PROPN	NNP	_	0	root	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	Texas	_	PROPN	NNP	_	2	appos	_	_
+5	--	_	PUNCT	:	_	2	punct	_	_
+
+1	South	_	PROPN	NNP	_	3	nn	_	_
+2	Dakota	_	PROPN	NNP	_	3	nn	_	_
+3	Health	_	PROPN	NNP	_	0	root	_	_
+4	&	_	CONJ	CC	_	3	cc	_	_
+5	Education	_	PROPN	NNP	_	7	nn	_	_
+6	Facility	_	PROPN	NNP	_	7	nn	_	_
+7	Authority	_	PROPN	NNP	_	3	conj	_	_
+8	--	_	PUNCT	:	_	7	punct	_	_
+
+1	But	_	CONJ	CC	_	6	cc	_	_
+2	he	_	PRON	PRP	_	6	nsubj	_	_
+3	's	_	VERB	VBZ	_	6	cop	_	_
+4	not	_	PART	RB	_	6	neg	_	_
+5	so	_	ADV	RB	_	6	advmod	_	_
+6	sure	_	ADJ	JJ	_	0	root	_	_
+7	about	_	ADP	IN	_	6	prep	_	_
+8	everyone	_	PRON	NN	_	7	pobj	_	_
+9	else	_	ADV	RB	_	8	amod	_	_
+10	.	_	PUNCT	.	_	6	punct	_	_
+
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	'm	_	AUX	VBP	_	3	aux	_	_
+3	going	_	VERB	VBG	_	0	root	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	hold	_	VERB	VB	_	3	xcomp	_	_
+6	on	_	ADP	RP	_	5	prt	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+
+1	If	_	SCONJ	IN	_	3	mark	_	_
+2	I	_	PRON	PRP	_	3	nsubj	_	_
+3	sell	_	VERB	VBP	_	8	advcl	_	_
+4	now	_	ADV	RB	_	3	advmod	_	_
+5	,	_	PUNCT	,	_	8	punct	_	_
+6	I	_	PRON	PRP	_	8	nsubj	_	_
+7	'll	_	AUX	MD	_	8	aux	_	_
+8	take	_	VERB	VB	_	0	root	_	_
+9	a	_	DET	DT	_	11	det	_	_
+10	big	_	ADJ	JJ	_	11	amod	_	_
+11	loss	_	NOUN	NN	_	8	dobj	_	_
+12	.	_	PUNCT	.	_	8	punct	_	_
+13	''	_	PUNCT	''	_	8	punct	_	_
+
+1	Now	_	ADV	RB	_	4	advmod	_	_
+2	it	_	PRON	PRP	_	4	nsubj	_	_
+3	's	_	AUX	VBZ	_	4	aux	_	_
+4	happening	_	VERB	VBG	_	0	root	_	_
+5	again	_	ADV	RB	_	4	advmod	_	_
+6	.	_	PUNCT	.	_	4	punct	_	_
+7	''	_	PUNCT	''	_	4	punct	_	_
+
+1	Merrill	_	PROPN	NNP	_	2	nn	_	_
+2	Lynch	_	PROPN	NNP	_	5	nsubj	_	_
+3	ca	_	AUX	MD	_	5	aux	_	_
+4	n't	_	PART	RB	_	5	neg	_	_
+5	survive	_	VERB	VB	_	0	root	_	_
+6	without	_	ADP	IN	_	5	prep	_	_
+7	the	_	DET	DT	_	9	det	_	_
+8	little	_	ADJ	JJ	_	9	amod	_	_
+9	guy	_	NOUN	NN	_	6	pobj	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+11	''	_	PUNCT	''	_	5	punct	_	_
+
+1	And	_	CONJ	CC	_	6	cc	_	_
+2	,	_	PUNCT	,	_	6	punct	_	_
+3	finally	_	ADV	RB	_	6	advmod	_	_
+4	,	_	PUNCT	,	_	6	punct	_	_
+5	there	_	PRON	EX	_	6	expl	_	_
+6	were	_	VERB	VBD	_	0	root	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	gloaters	_	NOUN	NNS	_	6	nsubj	_	_
+9	.	_	PUNCT	.	_	6	punct	_	_
+
+1	``	_	PUNCT	``	_	3	punct	_	_
+2	I	_	PRON	PRP	_	3	nsubj	_	_
+3	got	_	VERB	VBD	_	0	root	_	_
+4	out	_	ADP	RP	_	3	acomp	_	_
+5	in	_	ADP	IN	_	3	prep	_	_
+6	1987	_	NUM	CD	_	5	pobj	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Would	_	AUX	MD	_	5	aux	_	_
+2	Mr.	_	PROPN	NNP	_	3	nn	_	_
+3	Antori	_	PROPN	NNP	_	5	nsubj	_	_
+4	ever	_	ADV	RB	_	5	advmod	_	_
+5	get	_	VERB	VB	_	0	root	_	_
+6	back	_	ADV	RB	_	5	advmod	_	_
+7	in	_	ADP	RP	_	5	acomp	_	_
+8	?	_	PUNCT	.	_	5	punct	_	_
+
+1	``	_	PUNCT	``	_	4	punct	_	_
+2	Are	_	AUX	VBP	_	4	aux	_	_
+3	you	_	PRON	PRP	_	4	nsubj	_	_
+4	kidding	_	VERB	VBG	_	0	root	_	_
+5	!	_	PUNCT	.	_	4	punct	_	_
+
+1	When	_	ADV	WRB	_	3	advmod	_	_
+2	it	_	PRON	PRP	_	3	nsubj	_	_
+3	comes	_	VERB	VBZ	_	8	advcl	_	_
+4	to	_	ADP	TO	_	3	prep	_	_
+5	money	_	NOUN	NN	_	4	pobj	_	_
+6	:	_	PUNCT	:	_	8	punct	_	_
+7	Once	_	ADV	RB	_	8	advmod	_	_
+8	bitten	_	VERB	VBN	_	0	root	_	_
+9	,	_	PUNCT	,	_	8	punct	_	_
+10	2,000	_	NUM	CD	_	11	num	_	_
+11	times	_	NOUN	NNS	_	12	npadvmod	_	_
+12	shy	_	ADJ	JJ	_	8	dep	_	_
+13	.	_	PUNCT	.	_	8	punct	_	_
+
+1	Palmtops	_	NOUN	NNS	_	2	nsubj	_	_
+2	are	_	VERB	VBP	_	0	root	_	_
+3	n't	_	PART	RB	_	2	neg	_	_
+4	far	_	ADV	RB	_	5	advmod	_	_
+5	behind	_	ADV	RB	_	2	advmod	_	_
+6	.	_	PUNCT	.	_	2	punct	_	_
+
+1	It	_	PRON	PRP	_	3	nsubj	_	_
+2	's	_	VERB	VBZ	_	3	cop	_	_
+3	huge	_	ADJ	JJ	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+5	''	_	PUNCT	''	_	3	punct	_	_
+
+1	Making	_	VERB	VBG	_	5	csubj	_	_
+2	computers	_	NOUN	NNS	_	3	nsubj	_	_
+3	smaller	_	ADJ	JJR	_	1	xcomp	_	_
+4	often	_	ADV	RB	_	5	advmod	_	_
+5	means	_	VERB	VBZ	_	0	root	_	_
+6	sacrificing	_	VERB	VBG	_	5	xcomp	_	_
+7	memory	_	NOUN	NN	_	6	dobj	_	_
+8	.	_	PUNCT	.	_	5	punct	_	_
+
+1	Size	_	NOUN	NN	_	4	nn	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	weight	_	NOUN	NN	_	1	conj	_	_
+4	considerations	_	NOUN	NNS	_	7	nsubj	_	_
+5	also	_	ADV	RB	_	7	advmod	_	_
+6	have	_	AUX	VBP	_	7	aux	_	_
+7	limited	_	VERB	VBN	_	0	root	_	_
+8	screen	_	NOUN	NN	_	9	nn	_	_
+9	displays	_	NOUN	NNS	_	7	dobj	_	_
+10	.	_	PUNCT	.	_	7	punct	_	_
+
+1	The	_	DET	DT	_	3	det	_	_
+2	competitive	_	ADJ	JJ	_	3	amod	_	_
+3	sniping	_	NOUN	NN	_	5	nsubj	_	_
+4	can	_	AUX	MD	_	5	aux	_	_
+5	get	_	VERB	VB	_	0	root	_	_
+6	pretty	_	ADV	RB	_	7	advmod	_	_
+7	petty	_	ADJ	JJ	_	5	acomp	_	_
+8	at	_	ADP	IN	_	5	prep	_	_
+9	times	_	NOUN	NNS	_	8	pobj	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+
+1	Compaq	_	PROPN	NNP	_	4	nsubj	_	_
+2	is	_	AUX	VBZ	_	4	aux	_	_
+3	already	_	ADV	RB	_	4	advmod	_	_
+4	taking	_	VERB	VBG	_	0	root	_	_
+5	aim	_	NOUN	NN	_	4	dobj	_	_
+6	at	_	ADP	IN	_	4	prep	_	_
+7	Zenith	_	PROPN	NNP	_	10	poss	_	_
+8	's	_	PART	POS	_	7	possessive	_	_
+9	market	_	NOUN	NN	_	10	nn	_	_
+10	share	_	NOUN	NN	_	6	pobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Analysts	_	NOUN	NNS	_	4	nsubj	_	_
+2	do	_	AUX	VBP	_	4	aux	_	_
+3	n't	_	PART	RB	_	4	neg	_	_
+4	see	_	VERB	VB	_	0	root	_	_
+5	it	_	PRON	PRP	_	4	iobj	_	_
+6	that	_	DET	DT	_	7	det	_	_
+7	way	_	NOUN	NN	_	4	dobj	_	_
+8	.	_	PUNCT	.	_	4	punct	_	_
+
+1	What	_	PRON	WP	_	2	dep	_	_
+2	about	_	ADP	IN	_	0	root	_	_
+3	Big	_	PROPN	NNP	_	4	nn	_	_
+4	Blue	_	PROPN	NNP	_	2	pobj	_	_
+5	?	_	PUNCT	.	_	2	punct	_	_
+
+1	Plunge	_	NOUN	NN	_	0	root	_	_
+2	?	_	PUNCT	.	_	1	punct	_	_
+
+1	What	_	DET	WDT	_	2	det	_	_
+2	plunge	_	NOUN	NN	_	0	root	_	_
+3	?	_	PUNCT	.	_	2	punct	_	_
+
+1	IBM	_	PROPN	NNP	_	2	nsubj	_	_
+2	closed	_	VERB	VBD	_	0	root	_	_
+3	at	_	ADP	IN	_	2	prep	_	_
+4	$	_	SYM	$	_	3	pobj	_	_
+5	102	_	NUM	CD	_	4	num	_	_
+6	,	_	PUNCT	,	_	2	punct	_	_
+7	down	_	ADV	RB	_	2	advmod	_	_
+8	$	_	SYM	$	_	7	pobj	_	_
+9	5.625	_	NUM	CD	_	8	num	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+
+1	He	_	PRON	PRP	_	2	nsubj	_	_
+2	added	_	VERB	VBD	_	0	root	_	_
+3	:	_	PUNCT	:	_	2	punct	_	_
+4	``	_	PUNCT	``	_	2	punct	_	_
+5	We	_	PRON	PRP	_	6	nsubj	_	_
+6	learned	_	VERB	VBD	_	2	ccomp	_	_
+7	a	_	DET	DT	_	8	det	_	_
+8	lesson	_	NOUN	NN	_	6	dobj	_	_
+9	in	_	ADP	IN	_	6	prep	_	_
+10	1987	_	NUM	CD	_	9	pobj	_	_
+11	about	_	ADP	IN	_	6	prep	_	_
+12	volatility	_	NOUN	NN	_	11	pobj	_	_
+13	.	_	PUNCT	.	_	2	punct	_	_
+
+1	Analysts	_	NOUN	NNS	_	7	nsubj	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	competitors	_	NOUN	NNS	_	1	conj	_	_
+4	,	_	PUNCT	,	_	7	punct	_	_
+5	however	_	ADV	RB	_	7	advmod	_	_
+6	,	_	PUNCT	,	_	7	punct	_	_
+7	doubt	_	VERB	VBP	_	0	root	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	numbers	_	NOUN	NNS	_	12	nsubj	_	_
+10	were	_	VERB	VBD	_	12	cop	_	_
+11	that	_	ADV	RB	_	12	advmod	_	_
+12	high	_	ADJ	JJ	_	7	ccomp	_	_
+13	.	_	PUNCT	.	_	7	punct	_	_
+
+1	``	_	PUNCT	``	_	4	punct	_	_
+2	This	_	PRON	DT	_	4	nsubj	_	_
+3	will	_	AUX	MD	_	4	aux	_	_
+4	raise	_	VERB	VB	_	0	root	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	energy	_	NOUN	NN	_	7	nn	_	_
+7	level	_	NOUN	NN	_	4	dobj	_	_
+8	of	_	ADP	IN	_	7	prep	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	show	_	NOUN	NN	_	8	pobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+12	''	_	PUNCT	''	_	4	punct	_	_
+
+1	Tandem	_	PROPN	NNP	_	5	poss	_	_
+2	's	_	PART	POS	_	1	possessive	_	_
+3	new	_	ADJ	JJ	_	5	amod	_	_
+4	high-end	_	ADJ	JJ	_	5	amod	_	_
+5	computer	_	NOUN	NN	_	7	nsubjpass	_	_
+6	is	_	AUX	VBZ	_	7	auxpass	_	_
+7	called	_	VERB	VBN	_	0	root	_	_
+8	Cyclone	_	PROPN	NNP	_	7	xcomp	_	_
+9	.	_	PUNCT	.	_	7	punct	_	_
+
+1	That	_	PRON	DT	_	3	nsubj	_	_
+2	will	_	AUX	MD	_	3	aux	_	_
+3	spur	_	VERB	VB	_	0	root	_	_
+4	Tandem	_	PROPN	NNP	_	6	poss	_	_
+5	's	_	PART	POS	_	4	possessive	_	_
+6	growth	_	NOUN	NN	_	3	dobj	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+
+1	``	_	PUNCT	``	_	12	punct	_	_
+2	We	_	PRON	PRP	_	3	nsubj	_	_
+3	're	_	VERB	VBP	_	12	ccomp	_	_
+4	after	_	ADP	IN	_	3	prep	_	_
+5	a	_	DET	DT	_	8	det	_	_
+6	little	_	ADJ	JJ	_	8	amod	_	_
+7	bigger	_	ADJ	JJR	_	6	dep	_	_
+8	niche	_	NOUN	NN	_	4	pobj	_	_
+9	,	_	PUNCT	,	_	12	punct	_	_
+10	''	_	PUNCT	''	_	12	punct	_	_
+11	he	_	PRON	PRP	_	12	nsubj	_	_
+12	said	_	VERB	VBD	_	0	root	_	_
+13	.	_	PUNCT	.	_	12	punct	_	_
+
+1	Do	_	AUX	VB	_	3	aux	_	_
+2	n't	_	PART	RB	_	3	neg	_	_
+3	jump	_	VERB	VB	_	0	root	_	_
+4	yet	_	ADV	RB	_	3	advmod	_	_
+5	.	_	PUNCT	.	_	3	punct	_	_
+
+1	This	_	PRON	DT	_	3	nsubj	_	_
+2	may	_	AUX	MD	_	3	aux	_	_
+3	sound	_	VERB	VB	_	0	root	_	_
+4	strangely	_	ADV	RB	_	5	advmod	_	_
+5	optimistic	_	ADJ	JJ	_	3	acomp	_	_
+6	.	_	PUNCT	.	_	3	punct	_	_
+
+1	When	_	ADV	WRB	_	3	advmod	_	_
+2	it	_	PRON	PRP	_	3	nsubj	_	_
+3	went	_	VERB	VBD	_	12	advcl	_	_
+4	down	_	ADV	RB	_	3	advmod	_	_
+5	,	_	PUNCT	,	_	12	punct	_	_
+6	by	_	ADP	IN	_	12	prep	_	_
+7	all	_	DET	DT	_	8	det	_	_
+8	tradition	_	NOUN	NN	_	6	pobj	_	_
+9	,	_	PUNCT	,	_	12	punct	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	economy	_	NOUN	NN	_	12	nsubj	_	_
+12	followed	_	VERB	VBD	_	0	root	_	_
+13	.	_	PUNCT	.	_	12	punct	_	_
+
+1	``	_	PUNCT	``	_	3	punct	_	_
+2	There	_	PRON	EX	_	3	expl	_	_
+3	's	_	VERB	VBZ	_	0	root	_	_
+4	nothing	_	PRON	NN	_	3	nsubj	_	_
+5	rational	_	ADJ	JJ	_	4	amod	_	_
+6	about	_	ADP	IN	_	5	prep	_	_
+7	this	_	DET	DT	_	8	det	_	_
+8	kind	_	NOUN	NN	_	6	pobj	_	_
+9	of	_	ADP	IN	_	8	prep	_	_
+10	action	_	NOUN	NN	_	9	pobj	_	_
+11	.	_	PUNCT	.	_	3	punct	_	_
+12	''	_	PUNCT	''	_	3	punct	_	_
+
+1	The	_	DET	DT	_	3	det	_	_
+2	financial-services	_	NOUN	NNS	_	3	nn	_	_
+3	industry	_	NOUN	NN	_	5	nsubjpass	_	_
+4	was	_	AUX	VBD	_	5	auxpass	_	_
+5	battered	_	VERB	VBN	_	0	root	_	_
+6	by	_	ADP	IN	_	5	prep	_	_
+7	the	_	DET	DT	_	9	det	_	_
+8	1987	_	NUM	CD	_	9	num	_	_
+9	crash	_	NOUN	NN	_	6	pobj	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+
+1	Growth	_	NOUN	NN	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	slower	_	ADJ	JJR	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Profits	_	NOUN	NNS	_	3	nsubj	_	_
+2	are	_	VERB	VBP	_	3	cop	_	_
+3	softer	_	ADJ	JJR	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Debt	_	NOUN	NN	_	2	nn	_	_
+2	burdens	_	NOUN	NNS	_	4	nsubj	_	_
+3	are	_	VERB	VBP	_	4	cop	_	_
+4	heavier	_	ADJ	JJR	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+
+1	``	_	PUNCT	``	_	8	punct	_	_
+2	A	_	DET	DT	_	3	det	_	_
+3	lot	_	NOUN	NN	_	8	nsubjpass	_	_
+4	of	_	ADP	IN	_	3	prep	_	_
+5	pent-up	_	ADJ	JJ	_	6	amod	_	_
+6	demand	_	NOUN	NN	_	4	pobj	_	_
+7	is	_	AUX	VBZ	_	8	auxpass	_	_
+8	gone	_	VERB	VBN	_	0	root	_	_
+9	.	_	PUNCT	.	_	8	punct	_	_
+10	''	_	PUNCT	''	_	8	punct	_	_
+
+1	``	_	PUNCT	``	_	4	punct	_	_
+2	That	_	PRON	DT	_	4	nsubjpass	_	_
+3	was	_	AUX	VBD	_	4	auxpass	_	_
+4	offset	_	VERB	VBN	_	0	root	_	_
+5	by	_	ADP	IN	_	4	prep	_	_
+6	strength	_	NOUN	NN	_	5	pobj	_	_
+7	elsewhere	_	ADV	RB	_	6	advmod	_	_
+8	.	_	PUNCT	.	_	4	punct	_	_
+
+1	But	_	CONJ	CC	_	9	cc	_	_
+2	,	_	PUNCT	,	_	9	punct	_	_
+3	in	_	ADP	IN	_	9	prep	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	process	_	NOUN	NN	_	3	pobj	_	_
+6	,	_	PUNCT	,	_	9	punct	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	Fed	_	PROPN	NNP	_	9	nsubj	_	_
+9	risks	_	VERB	VBZ	_	0	root	_	_
+10	reigniting	_	VERB	VBG	_	9	xcomp	_	_
+11	inflation	_	NOUN	NN	_	10	dobj	_	_
+12	.	_	PUNCT	.	_	9	punct	_	_
+
+1	A	_	DET	DT	_	2	det	_	_
+2	panic	_	NOUN	NN	_	9	nsubj	_	_
+3	on	_	ADP	IN	_	2	prep	_	_
+4	Wall	_	PROPN	NNP	_	5	nn	_	_
+5	Street	_	PROPN	NNP	_	3	pobj	_	_
+6	does	_	AUX	VBZ	_	9	aux	_	_
+7	n't	_	PART	RB	_	9	neg	_	_
+8	exactly	_	ADV	RB	_	9	advmod	_	_
+9	inspire	_	VERB	VB	_	0	root	_	_
+10	confidence	_	NOUN	NN	_	9	dobj	_	_
+11	.	_	PUNCT	.	_	9	punct	_	_
+
+1	Surveys	_	NOUN	NNS	_	2	nsubj	_	_
+2	suggested	_	VERB	VBD	_	0	root	_	_
+3	that	_	SCONJ	IN	_	7	mark	_	_
+4	consumer	_	NOUN	NN	_	5	nn	_	_
+5	confidence	_	NOUN	NN	_	7	nsubj	_	_
+6	was	_	VERB	VBD	_	7	cop	_	_
+7	high	_	ADJ	JJ	_	2	ccomp	_	_
+8	before	_	ADP	IN	_	7	prep	_	_
+9	Friday	_	PROPN	NNP	_	8	pobj	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	doomsayers	_	NOUN	NNS	_	3	nsubj	_	_
+3	had	_	VERB	VBD	_	0	root	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	receptive	_	ADJ	JJ	_	6	amod	_	_
+6	audience	_	NOUN	NN	_	3	dobj	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+
+1	They	_	PRON	PRP	_	4	nsubj	_	_
+2	are	_	VERB	VBP	_	4	cop	_	_
+3	more	_	ADV	RBR	_	4	advmod	_	_
+4	sophisticated	_	ADJ	JJ	_	0	root	_	_
+5	this	_	DET	DT	_	6	det	_	_
+6	time	_	NOUN	NN	_	4	tmod	_	_
+7	.	_	PUNCT	.	_	4	punct	_	_
+
+1	A	_	DET	DT	_	3	det	_	_
+2	Dow	_	PROPN	NNP	_	3	nn	_	_
+3	spokeswoman	_	NOUN	NN	_	4	nsubj	_	_
+4	declined	_	VERB	VBD	_	0	root	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	comment	_	VERB	VB	_	4	xcomp	_	_
+7	on	_	ADP	IN	_	6	prep	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	estimates	_	NOUN	NNS	_	7	pobj	_	_
+10	.	_	PUNCT	.	_	4	punct	_	_
+
+1	Most	_	ADJ	JJS	_	5	nsubj	_	_
+2	of	_	ADP	IN	_	1	prep	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	10	_	NUM	CD	_	2	pobj	_	_
+5	have	_	VERB	VBP	_	0	root	_	_
+6	big	_	ADJ	JJ	_	8	amod	_	_
+7	commodity-chemical	_	ADJ	JJ	_	8	amod	_	_
+8	operations	_	NOUN	NNS	_	5	dobj	_	_
+9	.	_	PUNCT	.	_	5	punct	_	_
+
+1	Du	_	PROPN	NNP	_	2	nn	_	_
+2	Pont	_	PROPN	NNP	_	3	nsubj	_	_
+3	declined	_	VERB	VBD	_	0	root	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	comment	_	VERB	VB	_	3	xcomp	_	_
+6	.	_	PUNCT	.	_	3	punct	_	_
+
+1	Monsanto	_	PROPN	NNP	_	2	nsubj	_	_
+2	declined	_	VERB	VBD	_	0	root	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	comment	_	VERB	VB	_	2	xcomp	_	_
+5	.	_	PUNCT	.	_	2	punct	_	_
+
+1	Himont	_	PROPN	NNP	_	8	nsubj	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	Quantum	_	PROPN	NNP	_	1	conj	_	_
+4	and	_	CONJ	CC	_	1	cc	_	_
+5	Union	_	PROPN	NNP	_	6	nn	_	_
+6	Carbide	_	PROPN	NNP	_	1	conj	_	_
+7	all	_	DET	DT	_	8	dep	_	_
+8	declined	_	VERB	VBD	_	0	root	_	_
+9	to	_	PART	TO	_	10	aux	_	_
+10	comment	_	VERB	VB	_	8	xcomp	_	_
+11	.	_	PUNCT	.	_	8	punct	_	_
+
+1	Dow	_	PROPN	NNP	_	3	nn	_	_
+2	Chemical	_	PROPN	NNP	_	3	nn	_	_
+3	Co.	_	PROPN	NNP	_	0	root	_	_
+4	--	_	PUNCT	:	_	3	punct	_	_
+
+1	Centel	_	PROPN	NNP	_	3	nn	_	_
+2	Capital	_	PROPN	NNP	_	3	nn	_	_
+3	Corp.	_	PROPN	NNP	_	0	root	_	_
+4	--	_	PUNCT	:	_	3	punct	_	_
+
+1	Federal	_	PROPN	NNP	_	5	nn	_	_
+2	Home	_	PROPN	NNP	_	5	nn	_	_
+3	Loan	_	PROPN	NNP	_	5	nn	_	_
+4	Mortgage	_	PROPN	NNP	_	5	nn	_	_
+5	Corp.	_	PROPN	NNP	_	0	root	_	_
+6	--	_	PUNCT	:	_	5	punct	_	_
+
+1	Federal	_	PROPN	NNP	_	5	nn	_	_
+2	Home	_	PROPN	NNP	_	5	nn	_	_
+3	Loan	_	PROPN	NNP	_	5	nn	_	_
+4	Mortgage	_	PROPN	NNP	_	5	nn	_	_
+5	Corp.	_	PROPN	NNP	_	0	root	_	_
+6	--	_	PUNCT	:	_	5	punct	_	_
+
+1	Pricing	_	NOUN	NN	_	2	nn	_	_
+2	details	_	NOUN	NNS	_	6	nsubj	_	_
+3	were	_	VERB	VBD	_	6	cop	_	_
+4	n't	_	PART	RB	_	6	neg	_	_
+5	immediately	_	ADV	RB	_	6	advmod	_	_
+6	available	_	ADJ	JJ	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+
+1	Federal	_	PROPN	NNP	_	5	nn	_	_
+2	Home	_	PROPN	NNP	_	5	nn	_	_
+3	Loan	_	PROPN	NNP	_	5	nn	_	_
+4	Mortgage	_	PROPN	NNP	_	5	nn	_	_
+5	Corp.	_	PROPN	NNP	_	0	root	_	_
+6	--	_	PUNCT	:	_	5	punct	_	_
+
+1	The	_	DET	DT	_	2	det	_	_
+2	collateral	_	NOUN	NN	_	5	nsubjpass	_	_
+3	is	_	AUX	VBZ	_	5	aux	_	_
+4	being	_	AUX	VBG	_	5	auxpass	_	_
+5	sold	_	VERB	VBN	_	0	root	_	_
+6	by	_	ADP	IN	_	5	prep	_	_
+7	a	_	DET	DT	_	9	det	_	_
+8	thrift	_	NOUN	NN	_	9	nn	_	_
+9	institution	_	NOUN	NN	_	6	pobj	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+
+1	The	_	DET	DT	_	3	det	_	_
+2	interest-only	_	ADJ	JJ	_	3	amod	_	_
+3	securities	_	NOUN	NNS	_	6	nsubjpass	_	_
+4	will	_	AUX	MD	_	6	aux	_	_
+5	be	_	AUX	VB	_	6	auxpass	_	_
+6	sold	_	VERB	VBN	_	0	root	_	_
+7	separately	_	ADV	RB	_	6	advmod	_	_
+8	by	_	ADP	IN	_	6	prep	_	_
+9	BT	_	PROPN	NNP	_	10	nn	_	_
+10	Securities	_	PROPN	NNP	_	8	pobj	_	_
+11	.	_	PUNCT	.	_	6	punct	_	_
+

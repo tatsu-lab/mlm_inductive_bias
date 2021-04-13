@@ -1,0 +1,6 @@
+# torch==1.8.0
+transformers==3.3.0
+tqdm
+numpy
+pandas
+nltk
